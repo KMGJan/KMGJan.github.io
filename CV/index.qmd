@@ -1,0 +1,118 @@
+---
+title: Curriculum Vitae
+format: 
+  html:
+    toc: true
+    toc-title: Curriculum Vitae
+    toc-location: right
+    toc-depth: 2
+    toc-expand: true
+    date: last-modified
+    date-format: "MMMM YYYY"
+    author:
+    - name: Kinlan M.G. Jan
+      orcid: 0000-0002-5579-0017
+      affiliations:
+      - Stockholm University, Stockholm, Sweden
+  pdf:
+    author: Kinlan M.G. Jan
+    pdf-engine: weasyprint
+css: CV.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+**PhD Student in Marine Biology** <br>
+Department of Ecology, Environment and Plant Sciences, Stockholm University
+
+[kinlan.jan@su.se](mailto:kinlan.jan@su.se){.email}
+[0000-0002-5579-0017](https://orcid.org/0000-0002-5579-0017){.orcid}
+[KMGJan](https://github.com/KMGJan){.github}
+:::
+
+
+## Education 
+
+[**Stockholm University** [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br> [PhD Studies in Marine Biology]{.edu} [*September 2021 --- Present*]{.cvdate} <br>
+[MSc in Marine Biology]{.edu} [*August 2019 --- June 2021*]{.cvdate}
+
+[**The University of Neuchâtel** [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br> [BSc in Biology]{.edu} [*September 2017 --- June 2019*]{.cvdate}
+
+## Teaching
+
+[**Stockholm University** [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+[Marine ecosystem dynamics, MSc course]{.edu} [*2021 --- Present*]{.cvdate} <br>
+[Marine ecology, BSc course]{.edu} [*2022*]{.cvdate}
+
+[**The University of Neuchâtel** [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br> [From molecules to cells, BSc course]{.edu} [*2018 --- 2019*]{.cvdate}
+
+## Commissions of trust
+
+[Chair of the PhD council]{.edu} [*2023*]{.cvdate} <br>
+[Vice-chair of the PhD council]{.edu} [*2022*]{.cvdate} <br>
+[Technical assistance with PhD hybrid defenses]{.edu} [*2022 --- 2023*]{.cvdate}
+
+## Award and grant
+
+Elisabeth och Herman Rhodin Memorial Foundation [*2024*]{.cvdate} <br> [*Travel grant*]{.edu}
+
+ICES travel funds for early career scientists [*2024*]{.cvdate} <br> [*Travel grant*]{.edu}
+
+Baltic Waters Scholarship program for early career researchers [*2024*]{.cvdate} <br> [*Competition between forage fish in the open waters of the Baltic Sea*]{.edu}
+
+Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate} <br> [*Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding*]{.edu}
+
+## Experience
+
+### Field work
+
+**Fish sampling** <br>
+[Herring Larvae Survey in the Stockholm archipelago]{.edu} [2023 --- 2024]{.cvdate} <br>
+[Sprat Acoustic Survey in the Baltic Sea]{.edu} [2022 --- 2023]{.cvdate}
+
+**Zooplankton sampling** <br>
+[Monitoring survey in the Baltic Sea]{.edu} [September 2020]{.cvdate}
+
+### Laboratory
+
+**DNA Metabarcoding** <br>
+[Library preparation | DNA extraction | PCR | Gel electrophoresis]{.pubtitle}
+
+**Zooplankton identification** <br>
+[Microscopy]{.pubtitle}
+
+## Publications
+
+***Jan KMG***, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual cycle shape trophic interactions under climate change*]{.pubtitle}. Limnology and Oceanography Letters **9**:3, 209-218. doi: [10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.doi target=_blank}
+
+Novotny A, Serandour B, Kortsch S, Gauzens B, ***Jan KMG***, Winder M. 2023. [*DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model*]{.pubtitle}. Science advances **9**:17, eadg1096. doi: [10.1126/sciadv.adg1096](https://doi.org/10.1126/sciadv.adg1096){.doi target=_blank}
+
+Serandour B, ***Jan KMG***, Novotny A, Winder M. 2023. [*Opportunisitic vs selective feeding strategies of zooplankton under changing environmental conditions*]{.pubtitle}. Journal of Plankton Research **45**:2, 389-403. doi: [10.1093/plankt/fbad007](https://doi.org/10.1093/plankt/fbad007){.doi target=_blank}
+
+Novotny A, ***Jan KMG***, Dierking J, Winder M. 2022. [*Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy*]{.pubtitle}. Scientific Reports **12**, 10952. doi: [10.1038/s41598-022-15116-7](https://doi.org/10.1038/s41598-022-15116-7){.doi target=_blank}
+
+
+
+## Conferences
+[**ICES Annual Science Conference 2024** | Poster [**Gateshead, United Kingdom**]{.cvlocation}]{.cvcontainer} <br>
+***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. [*Implication of resource competition for forage fish dynamics in the central Baltic Sea*]{.pubtitle}.
+
+[**Baltic Sea Science Congress 2023** | Talk [**Helsinki, Finland**]{.cvlocation}]{.cvcontainer} <br>
+***Jan KMG***, Serandour B, Walve J, Winder M. [*Species-specific phenological responses to climate pose consequences for trophic coupling*]{.pubtitle}.
+
+[**ASLO Aquatic Sciences Meeting 2023** | Poster [**Palma de Mallorca, Spain**]{.cvlocation}]{.cvcontainer} <br>
+***Jan KMG***, Serandour B, Walve J, Winder M. [*Species-specific phenological responses to climate pose consequences for higher trophic levels*]{.pubtitle}.
+
+[**Marine Research Days 2022** | Talk [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+***Jan KMG***, Serandour B, Winder M. [*Coupling of plankton and small pelagic fish in the Baltic Sea*]{.pubtitle}.
+
+[**18^th^ International Symposium on Microbial Ecology 2022** | Poster [**Lausanne, Switzerland**]{.cvlocation}]{.cvcontainer} <br>
+***Jan KMG***, Novotny A, Dierking J, Winder M. [*The role of eukaryotic microorganisms for niche partitioning of planktivorous fish*]{.pubtitle}.
+
+[**Marine Research Days 2021** | Talk [**Gothenburg, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+***Jan KMG*** [*Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding*]{.pubtitle}.
+
+## Peer review
+
+[Limnology and Oceanography Letters]{.pubtitle} <br>
+[Molecular Ecology]{.pubtitle}

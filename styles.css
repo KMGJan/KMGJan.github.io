@@ -1,0 +1,51 @@
+/* css styles */
+.button {
+  color: black;        /* Sets the text color to black */
+  text-decoration: none;  /* Removes the underline */
+  }
+.intro {
+  margin-top: 20%;
+}
+.listing {
+  margin-left: 5%;
+}
+.category {
+  font-size: 13px;
+  color: #535353;
+}
+
+
+a{
+  text-decoration: none;
+
+  &:visited{
+
+    text-decoration: none;
+    opacity: 0.42;
+  }
+  &:hover{
+    opacity: 0.7;
+    text-decoration: underline;
+  }
+  &:active{
+    opacity: 1;
+    text-decoration: none;
+  }
+}
+
+.ChangePageRight {
+  float: right;
+  color: #535353;
+  font-family: "Bebas neue", Sans-Serif;
+}
+
+.ChangePageLeft {
+  float: left;
+  color: #535353;
+  font-family: "Bebas neue", Sans-Serif;
+}
+
+.myname {
+  font-family: "Amatic SC", Sans-Serif;
+  font-weight: 700;
+}

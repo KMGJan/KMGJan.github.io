@@ -1,0 +1,13 @@
+---
+title: "Working Project III"
+toc: false
+image: "image.gif"
+---
+This project aims to assess spatio-temporal dynamics of plankton-fish interactions.
+
+A poster [{{< fa download >}}](./ASC2024_Poster.pdf){.button target="_blank"} for this project was presented at the ICES Annual Science Conference 2024, September 2024, Gateshead, UK.
+
+Work in progress...
+
+[Working Project IV {{< fa arrow-right >}}](../Project4){.ChangePageRight}
+[{{< fa arrow-left >}} Working Project II](../Project2){.ChangePageLeft}

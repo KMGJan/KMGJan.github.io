@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/projects/Publications/index.html",
+    "items": [
+      "/projects/Publications/publication/paper4.html",
+      "/projects/Publications/publication/paper3.html",
+      "/projects/Publications/publication/paper2.html",
+      "/projects/Publications/publication/paper1.html"
+    ]
+  },
+  {
+    "listing": "/projects/PhD/index.html",
+    "items": [
+      "/projects/PhD/Project1/index.html",
+      "/projects/PhD/Project2/index.html",
+      "/projects/PhD/Project3/index.html",
+      "/projects/PhD/Project4/index.html"
+    ]
+  }
+]

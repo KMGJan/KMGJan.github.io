@@ -1,0 +1,32 @@
+---
+title: "Welcome"
+image: img/profile.jpg
+about:
+  id: hero-heading
+  template: jolla
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kinlan-jan-19b936199/
+      target: "_blank"
+    - icon: github
+      text: GitHub
+      href: https://github.com/KMGJan
+      target: "_blank"
+    - text: "{{< fa brands researchgate >}} Researchgate"
+      href: https://www.researchgate.net/profile/Kinlan-Jan
+      target: "_blank"
+
+---
+
+
+:::{.center}
+
+Hello, I am **Kinlan M.G. Jan**, a PhD student in marine biology passionate about plankton and trophic ecology.
+
+If you have any question, please contact me by [email {{< fa paper-plane >}}](mailto:kinlan.jan@su.se){.button} or by clicking on any link below.
+
+On this website, I am posting about my projects.
+
+:::

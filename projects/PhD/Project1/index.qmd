@@ -1,0 +1,29 @@
+---
+title: "Working Project I"
+toc: false
+image: "image.svg"
+cv:
+  pdf: "poster.pdf"
+---
+
+_**Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy**_
+
+To guide management strategies, a detailed understanding of the food web interactions and dynamics at high taxonomy resolution is required. However, due to method limitations, the diet of small pelagic fish is overrepresented by mesozooplankton with hard parts, while smaller and soft bodied organisms are seldom considered as prey. This project aimed to validate the use of molecular tools for studying plankton-fish interactions, using microscopy, qPCR and DNA metabarcoding on the 18S *rRNA* and *COI* gene to capture their whole eukaryotic prey assemblage. This was hypothesized to address this main limitation, allowing the identification of the diet of the three main planktivorous mesopredators in the Baltic Sea, sprat, herring, and stickleback. This project highlight the strength of using molecular tools for trophic interaction studies and highlight niche partitionning across clupeids (herring and sprat) and stickleback. Rotifer was identified as prefered prey for stickleback, whereas the copepod *Pseudocalanus* was prefered by clupeids.
+
+
+
+**The full article is available in open access:** Novotny, A., Jan, K.M.G., Dierking, J., Winder, M. Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy. Sci Rep 12, 10952 (2022). doi:[10.1038/s41598-022-15116-7](https://doi.org/10.1038/s41598-022-15116-7){.button target=_blank}
+
+The data and the Rscripts are publicly available on DRYAD. doi: [10.5061/dryad.vq83bk3vk](https://doi.org/10.5061/dryad.vq83bk3vk){.button target=_blank}
+
+The project was also presented as a poster at ISME18, August 2022, Lausanne, Switzerland 
+
+```{=html}
+<iframe width="100%" height="400" src="poster.pdf" title="Poster"></iframe>
+```
+
+
+
+[Working Project II {{< fa arrow-right >}}](../Project2){.ChangePageRight}
+
+

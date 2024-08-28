@@ -1,0 +1,37 @@
+---
+title: "Publications"
+image: "image.svg"
+listing: 
+  - id: publication
+    max-description-length: 80
+    image-height: 250px
+    fields: [author, Year, Journal, title]
+    contents: 
+      - publication/paper4.qmd
+      - publication/paper3.qmd
+      - publication/paper2.qmd
+      - publication/paper1.qmd
+    type: table
+    table-striped: true
+    table-hover: false
+    categories: unnumbered
+    grid-item-border: false
+    sort:
+      - "date desc"
+    sort-ui: 
+      - "Year"
+      - "author"
+      - "Journal"
+      - "title"
+    filter-ui: false
+    field-display-names:
+      author: "Authors" 
+---
+
+
+::: {#publication}
+:::
+
+
+[Teaching {{< fa arrow-right >}}](../Teaching){.ChangePageRight}
+[{{< fa arrow-left >}} PhD project](../PhD){.ChangePageLeft}

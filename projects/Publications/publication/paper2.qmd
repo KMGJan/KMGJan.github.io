@@ -1,0 +1,36 @@
+---
+title: "Opportunistic vs selective feeding strategies of zooplankton under changing environmental conditions"
+author:
+  - name: Baptiste Serandour
+    orcid: 0000-0002-2395-7724 
+    affiliations:
+      - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
+  - name: <b>Kinlan M.G. Jan</b>
+    orcid: 0000-0002-5579-0017
+    affiliations:
+      - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
+  - name: Andreas Novotny
+    orcid: 0000-0001-8910-6183
+    affiliations:
+      - Institute for the Oceans and Fisheries, The University of British Columbia, Vancouver, Canada
+      - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
+  - name: Monika Winder
+    orcid: 0000-0001-9467-3035 
+    affiliations:
+      - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
+Year: "2023"
+doi: "https://doi.org/10.1093/plankt/fbad007"
+Journal: Journal of Plankton Research
+categories:
+  - "Zooplankton"
+  - "DNA metabarcoding"
+  - "Food-web"
+  - "Niche"
+  - "Gradient"
+---
+
+Serandour B, Jan KMG, Novotny A, and Winder M. 2023. *Opportunistic vs selective feeding strategies of zooplankton under changing environmental conditions.* Journal of Plankton Research **45**:2, 389-403. doi:10.1093/plankt/fbad007
+
+
+[{{< fa arrow-left >}} Back to Publications](../../Publications){.ChangePageLeft}
+

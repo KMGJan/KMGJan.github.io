@@ -1,0 +1,32 @@
+---
+title: "PhD project"
+toc: false
+image: "image.svg"
+
+listing:
+  
+  - id: SubProject
+    grid-columns: 4
+    max-description-length: 200
+    image-height: 240px
+    fields: [image, title, description]
+    contents: 
+      - Project1/*.qmd
+      - Project2/*.qmd
+      - Project3/*.qmd
+      - Project4/*.qmd
+    type: grid
+    grid-item-border: false
+    sort: false
+---
+
+During my PhD project entitled *Plankton-fish interactions: an understudied link in the Baltic Sea food webs and fisheries management*, 4 subprojects are planned and will be posted on this page as they progress.
+
+The project aims to give a better description of the plankton-fish interactions and dynamics using a variety of tools, from DNA metabarcoding to time series analysis. Planktivorous fish are key components of the pelagic food web as they support upper trophic levels, such as commercially important fish, and indirectly control algal growth by feeding on zooplankton. In this project, DNA metabarcoding on low levels of dietary DNA and modeling will be used to investigate the full prey spectrum of planktivorous fish. The outcome of the studies will provide a better understanding on the plankton-fish interactions and help predict the variation of energy flow from primary producer to fish under different scenarios.
+
+The project is conducted at the [Department of Ecology, Environment and Plant Sciences, Stockholm University](https://www.su.se/department-of-ecology-environment-and-plant-sciences/){.button target=_blank} and is funded by [FORMAS](https://formas.se/en/start-page.html){.button target=_blank}.
+<hr class="about-sep">
+::: {#SubProject}
+:::
+
+[Publications {{< fa arrow-right >}}](./../Publications){.ChangePageRight}

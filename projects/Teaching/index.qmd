@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+image: "image.svg"
+---
+
+Teaching in the field, in the lab or on the computer is also an important part of my academic journey. On this page, archives of {{< fa brands r-project >}} courses are stored.
+
+In this tab the {{< fa brands r-project >}} material for the MSc course [**Marine Ecosystem Dynamics**](https://www.su.se/english/search-courses-and-programmes/bl7056-1.430278){.button target="_blank"} at Stockholm University can be found as well as the archives from previous years of the course.
+
+
+* [**2023** Repository](https://kmgjan.github.io/MED/){.button target="_blank"}
+* [**2024** Repository](https://kmgjan.github.io/MED2024/){.button target="_blank"}
+
+
+[{{< fa arrow-left >}} Publications](../Publications){.ChangePageLeft}
+

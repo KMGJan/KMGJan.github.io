@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "[Kinlan M.G. Jan]{.myname}"
+  page-footer:
+    left:  "2024 Kinlan M.G. Jan"
+    center: "[{{< fa brands github >}} Source Code](https://github.com/KMGJan/KMGJan.github.io){target=_blank}"
+    right: This website is built with [Quarto](https://quarto.org/){target=_blank}. 
+  navbar:
+    background: "#111111"
+    pinned: true
+    logo: img/image.png
+    align: center
+    collapse-level: 1
+    right:
+      - text: "About me"
+        href: about.qmd
+      - text: "{{< fa paperclip >}} Projects"
+        menu:
+        - text: "PhD project"
+          href: projects/PhD/index.qmd
+        - text: "Publications"
+          href: projects/Publications/index.qmd
+        - text: "Teaching"
+          href: projects/Teaching/index.qmd
+      - text: "{{< fa address-card >}} Curriculum Vitae"
+        href: CV/index.qmd
+      - text: "{{< fa brands github >}}"
+        href: "https://github.com/KMGJan"
+        target: "_blank"
+      - text: "{{< fa paper-plane >}}"
+        href: mailto:kinlan.jan@su.se
+
+
+format:
+  html:
+    theme: [cosmo, theme-light.scss]
+    css: styles.css
+    toc: false
+    mainfont: Jost
+execute:
+  freeze: true
