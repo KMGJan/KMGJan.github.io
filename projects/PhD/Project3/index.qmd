@@ -7,6 +7,13 @@ This project aims to assess spatio-temporal dynamics of plankton-fish interactio
 
 A poster [{{< fa download >}}](./ASC2024_Poster.pdf){.button target="_blank"} for this project was presented at the ICES Annual Science Conference 2024, September 2024, Gateshead, UK.
 
+::: {layout-ncol=2}
+![ICES Annual Science Conference, September 2024, Gateshead, UK](Gateshead.jpeg){width=63.5%}
+
+![](Poster.jpeg){width=36.5%}
+
+:::
+
 Work in progress...
 
 [Working Project IV {{< fa arrow-right >}}](../Project4){.ChangePageRight}
