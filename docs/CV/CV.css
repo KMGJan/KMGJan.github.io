@@ -93,7 +93,7 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   }
   @page:first {
     @top-left {
-      content: "July 2024";
+      content: "September 2024";
       font-size: 11pt;
       font-family: "Times New Roman", serif;
     }

@@ -58,7 +58,7 @@ Elisabeth och Herman Rhodin Memorial Foundation [*2024*]{.cvdate} <br> [*Travel 
 
 ICES travel funds for early career scientists [*2024*]{.cvdate} <br> [*Travel grant*]{.edu}
 
-Baltic Waters Scholarship program for early career researchers [*2024*]{.cvdate} <br> [*Competition between forage fish in the open waters of the Baltic Sea*]{.edu}
+BalticWaters Scholarship program for early career researchers [*2024*]{.cvdate} <br> [*Competition between forage fish in the open waters of the Baltic Sea*]{.edu}
 
 Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate} <br> [*Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding*]{.edu}
 
@@ -82,6 +82,8 @@ Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate} <br>
 [Microscopy]{.pubtitle}
 
 ## Publications
+
+Serandour B, Blenckner T, ***Jan KMG***, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography. doi:[10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
 
 ***Jan KMG***, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual cycle shape trophic interactions under climate change*]{.pubtitle}. Limnology and Oceanography Letters **9**:3, 209-218. doi: [10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.doi target=_blank}
 
