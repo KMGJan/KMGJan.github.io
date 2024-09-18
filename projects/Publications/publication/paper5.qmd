@@ -1,0 +1,45 @@
+---
+title: "Spatial distribution projections of suitable environmental conditions for key Baltic Sea zooplankton species"
+author:
+  - name: Baptiste Serandour
+    orcid: 0000-0002-2395-7724 
+    affiliations:
+      - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
+  - name: Thorsten Blenckner
+    orcid: 0000-0002-6991-7680
+    affiliations:
+      -	Stockholm Resilience Center, Stockholm University, Stockholm, Sweden
+  - name: <b>Kinlan M.G. Jan</b>
+    orcid: 0000-0002-5579-0017
+    affiliations:
+      - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
+  - name: Boris Leroy 
+    orcid: 0000-0002-7686-4302
+    affiliations:
+      - Unité Biologie des Organismes et Ecosystèmes aquatiques (BOREA UMR 7208), Muséum National d’Histoire Naturelle, Sorbonne Universités, Université de Caen Normandie, Université des Antilles, CNRS, IRD, Paris, France
+  - name: Berta Ramiro-Sánchez
+    affiliations:
+      - Unité Biologie des Organismes et Ecosystèmes aquatiques (BOREA UMR 7208), Muséum National d’Histoire Naturelle, Sorbonne Universités, Université de Caen Normandie, Université des Antilles, CNRS, IRD, Paris, France
+  - name: Eleanore Campbell
+    affiliations:
+      - Stockholm Resilience Center, Stockholm University, Stockholm, Sweden
+  - name: Monika Winder
+    orcid: 0000-0001-9467-3035 
+    affiliations:
+      - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
+Year: "2024"
+doi: "https://doi.org/10.1002/lno.12705"
+Journal: Limnology and Oceanography
+categories:
+  - "Zooplankton"
+  - "Climate change"
+  - "Spatial distribution modelling"
+  - "Baltic Sea"
+  - "Projections"
+  - "Spatial shift"
+---
+
+Serandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. *Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species.* Limnology and Oceanography. doi:10.1002/lno.12705
+
+
+[{{< fa arrow-left >}} Back to Publications](../../Publications){.ChangePageLeft}

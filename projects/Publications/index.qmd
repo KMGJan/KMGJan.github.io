@@ -7,6 +7,7 @@ listing:
     image-height: 250px
     fields: [author, Year, Journal, title]
     contents: 
+      - publication/paper5.qmd
       - publication/paper4.qmd
       - publication/paper3.qmd
       - publication/paper2.qmd
