@@ -36,19 +36,55 @@
   margin-left: 15px; /* Adjust the spacing between the icon and the email address */
   vertical-align: middle;
 }
-
+.educationtitle {
+  color: #0d4078;
+  font-style: italic;
+}
 .cvdate {
   float: right;
   font-style: italic;
   color: black;
 }
+
 .edu {
   color: #0d4078;
   margin-right: 20%;
 }
+
+.subedu {
+  color: black;
+  font-size: 90%;
+}
+
+.course {
+  color: #0d4078;
+  font-size: 90%;
+  font-style: italic;
+}
+
+.courseList {
+  color: #0d4078;
+  font-size: 90%;
+  font-style: italic;
+  margin-left: 9%;
+}
+
+.courseList1 {
+  color: #0d4078;
+  font-size: 90%;
+  font-style: italic;
+  margin-left: 1%;
+}
+.coursedate {
+  float: right;
+  font-style: italic;
+  color: black;
+  font-size: 90%;
+}
 .pubtitle {
   color: #0d4078;
 }
+
 .cvcontainer {
   display: inline-block;
   width: 100%;

@@ -33,26 +33,52 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 
 ## Education 
 
-[**Stockholm University** [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br> [PhD Studies in Marine Biology]{.edu} [*September 2021 --- Present*]{.cvdate} <br>
-[MSc in Marine Biology]{.edu} [*August 2019 --- June 2021*]{.cvdate}
+[[[**PhD**]{.educationtitle} **in Marine Biology**]{.edu} [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+[Stockholm University [*September 2021 --- Present*]{.cvdate}]{.cvcontainer}
 
-[**The University of Neuchâtel** [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br> [BSc in Biology]{.edu} [*September 2017 --- June 2019*]{.cvdate}
+[Preliminary thesis title:]{.subedu} [Implication of plankton-fish interactions and dynamics for the Baltic Sea food webs]{.course}
+<br>
+[Expected defense date:]{.subedu} [February 2026]{.course}
+<br>
+[[Courses:]{.subedu}
+[- Scientific Writing, BioResearch School, Stockholm University, Sweden]{.courseList1} [2023 -- 2024]{.coursedate} <br>
+[- RaukR - Advanced R for Bioinformatics, NBIS, Sweden]{.courseList} [2023]{.coursedate} <br>
+[- Introduction to Bioinformatics using NGS data, NBIS, Sweden]{.courseList} [2022]{.coursedate} <br>
+[- Fish and Fisheries Ecology, SLU, Sweden]{.courseList} [2021]{.coursedate}]{.no-print}
+
+[[[**MSc**]{.educationtitle} **in Marine Biology**]{.edu} [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+[Stockholm University [*August 2019 --- June 2021*]{.cvdate}]{.cvcontainer}
+
+[Master project title:]{.subedu} [Copepod feeding preferences along the Baltic Sea environmental gradients]{.course}
+<br>
+[[Courses:]{.subedu}
+[- Baltic Sea Ecosystem: Applications, Modeling and Management]{.courseList1} [2020]{.coursedate} <br>
+[- Management of Aquatic Resources in the Tropics]{.courseList} [2020]{.coursedate} <br>
+[- Applied Marine Conservation Ecology]{.courseList} [2019-2020]{.coursedate} <br>
+[- Biological Statistics]{.courseList} [2019]{.coursedate} <br>
+[- Marine Ecosystem Dynamics]{.courseList} [2019]{.coursedate} ]{.no-print}
+
+[[[**BSc**]{.educationtitle} **in Biology**]{.edu} [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br>
+[The University of Neuchâtel [*September 2017 --- June 2019*]{.cvdate}]{.cvcontainer}
+
 
 ## Teaching
 
 [**Stockholm University** [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
-[Marine ecosystem dynamics, MSc course]{.edu} [*2021 --- Present*]{.cvdate} <br>
-[Marine ecology, BSc course]{.edu} [*2022*]{.cvdate}
+[Marine ecosystem dynamics, [MSc]{.educationtitle} course]{.edu} [*2021 --- Present*]{.cvdate} <br>
+[Marine ecology, [BSc]{.educationtitle} course]{.edu} [*2022*]{.cvdate}
 
-[**The University of Neuchâtel** [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br> [From molecules to cells, BSc course]{.edu} [*2018 --- 2019*]{.cvdate}
+[**The University of Neuchâtel** [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br> [From molecules to cells, [BSc]{.educationtitle} course]{.edu} [*2018 --- 2019*]{.cvdate}
+
 
 ## Commissions of trust
 
-[Chair of the PhD council]{.edu} [*2023*]{.cvdate} <br>
-[Vice-chair of the PhD council]{.edu} [*2022*]{.cvdate} <br>
-[Technical assistance with PhD hybrid defenses]{.edu} [*2022 --- 2023*]{.cvdate}
+[Chair of the [PhD]{.educationtitle} council]{.edu} [*2023*]{.cvdate} <br>
+[Vice-chair of the [PhD]{.educationtitle} council]{.edu} [*2022*]{.cvdate} <br>
+[Technical assistance with [PhD]{.educationtitle} hybrid defenses]{.edu} [*2022 --- 2023*]{.cvdate}
 
-## Award and grant
+
+## Awards and grants
 
 Elisabeth och Herman Rhodin Memorial Foundation [*2024*]{.cvdate} <br> [*Travel grant*]{.edu}
 
@@ -61,6 +87,7 @@ ICES travel funds for early career scientists [*2024*]{.cvdate} <br> [*Travel gr
 BalticWaters Scholarship program for early career researchers [*2024*]{.cvdate} <br> [*Competition between forage fish in the open waters of the Baltic Sea*]{.edu}
 
 Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate} <br> [*Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding*]{.edu}
+
 
 ## Experience
 
@@ -81,6 +108,7 @@ Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate} <br>
 **Zooplankton identification** <br>
 [Microscopy]{.pubtitle}
 
+
 ## Publications
 
 Serandour B, Blenckner T, ***Jan KMG***, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography. doi:[10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
@@ -94,8 +122,8 @@ Serandour B, ***Jan KMG***, Novotny A, Winder M. 2023. [*Opportunisitic vs selec
 Novotny A, ***Jan KMG***, Dierking J, Winder M. 2022. [*Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy*]{.pubtitle}. Scientific Reports **12**, 10952. doi: [10.1038/s41598-022-15116-7](https://doi.org/10.1038/s41598-022-15116-7){.doi target=_blank}
 
 
-
 ## Conferences
+
 [**ICES Annual Science Conference 2024** | Poster [**Gateshead, United Kingdom**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. [*Implication of resource competition for forage fish dynamics in the central Baltic Sea*]{.pubtitle}.
 
@@ -112,9 +140,11 @@ Novotny A, ***Jan KMG***, Dierking J, Winder M. 2022. [*Niche partitioning betwe
 ***Jan KMG***, Novotny A, Dierking J, Winder M. [*The role of eukaryotic microorganisms for niche partitioning of planktivorous fish*]{.pubtitle}.
 
 [**Marine Research Days 2021** | Talk [**Gothenburg, Sweden**]{.cvlocation}]{.cvcontainer} <br>
-***Jan KMG*** [*Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding*]{.pubtitle}.
+***Jan KMG***. [*Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding*]{.pubtitle}.
 
-## Peer review
+## Academic services
+
+### Ad-hoc reviews
 
 [Limnology and Oceanography Letters]{.pubtitle} <br>
 [Molecular Ecology]{.pubtitle}

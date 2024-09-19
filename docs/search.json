@@ -102,7 +102,7 @@
     "href": "CV/index.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nStockholm University Stockholm, Sweden  PhD Studies in Marine Biology September 2021 — Present  MSc in Marine Biology August 2019 — June 2021\nThe University of Neuchâtel Neuchâtel, Switzerland  BSc in Biology September 2017 — June 2019"
+    "text": "Education\nPhD in Marine Biology Stockholm, Sweden  Stockholm University September 2021 — Present\nPreliminary thesis title: Implication of plankton-fish interactions and dynamics for the Baltic Sea food webs  Expected defense date: February 2026  Courses: - Scientific Writing, BioResearch School, Stockholm University, Sweden 2023 – 2024  - RaukR - Advanced R for Bioinformatics, NBIS, Sweden 2023  - Introduction to Bioinformatics using NGS data, NBIS, Sweden 2022  - Fish and Fisheries Ecology, SLU, Sweden 2021\nMSc in Marine Biology Stockholm, Sweden  Stockholm University August 2019 — June 2021\nMaster project title: Copepod feeding preferences along the Baltic Sea environmental gradients  Courses: - Baltic Sea Ecosystem: Applications, Modeling and Management 2020  - Management of Aquatic Resources in the Tropics 2020  - Applied Marine Conservation Ecology 2019-2020  - Biological Statistics 2019  - Marine Ecosystem Dynamics 2019\nBSc in Biology Neuchâtel, Switzerland  The University of Neuchâtel September 2017 — June 2019"
   },
   {
     "objectID": "CV/index.html#teaching",
@@ -144,7 +144,7 @@
     "href": "CV/index.html#conferences",
     "title": "Curriculum Vitae",
     "section": "Conferences",
-    "text": "Conferences\nICES Annual Science Conference 2024 | Poster Gateshead, United Kingdom  Jan KMG, Hentati-Sundberg J, Larson N, Winder M. Implication of resource competition for forage fish dynamics in the central Baltic Sea.\nBaltic Sea Science Congress 2023 | Talk Helsinki, Finland  Jan KMG, Serandour B, Walve J, Winder M. Species-specific phenological responses to climate pose consequences for trophic coupling.\nASLO Aquatic Sciences Meeting 2023 | Poster Palma de Mallorca, Spain  Jan KMG, Serandour B, Walve J, Winder M. Species-specific phenological responses to climate pose consequences for higher trophic levels.\nMarine Research Days 2022 | Talk Stockholm, Sweden  Jan KMG, Serandour B, Winder M. Coupling of plankton and small pelagic fish in the Baltic Sea.\n18th International Symposium on Microbial Ecology 2022 | Poster Lausanne, Switzerland  Jan KMG, Novotny A, Dierking J, Winder M. The role of eukaryotic microorganisms for niche partitioning of planktivorous fish.\nMarine Research Days 2021 | Talk Gothenburg, Sweden  Jan KMG Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding."
+    "text": "Conferences\nICES Annual Science Conference 2024 | Poster Gateshead, United Kingdom  Jan KMG, Hentati-Sundberg J, Larson N, Winder M. Implication of resource competition for forage fish dynamics in the central Baltic Sea.\nBaltic Sea Science Congress 2023 | Talk Helsinki, Finland  Jan KMG, Serandour B, Walve J, Winder M. Species-specific phenological responses to climate pose consequences for trophic coupling.\nASLO Aquatic Sciences Meeting 2023 | Poster Palma de Mallorca, Spain  Jan KMG, Serandour B, Walve J, Winder M. Species-specific phenological responses to climate pose consequences for higher trophic levels.\nMarine Research Days 2022 | Talk Stockholm, Sweden  Jan KMG, Serandour B, Winder M. Coupling of plankton and small pelagic fish in the Baltic Sea.\n18th International Symposium on Microbial Ecology 2022 | Poster Lausanne, Switzerland  Jan KMG, Novotny A, Dierking J, Winder M. The role of eukaryotic microorganisms for niche partitioning of planktivorous fish.\nMarine Research Days 2021 | Talk Gothenburg, Sweden  Jan KMG. Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding."
   },
   {
     "objectID": "CV/index.html#peer-review",
@@ -159,5 +159,19 @@
     "title": "Spatial distribution projections of suitable environmental conditions for key Baltic Sea zooplankton species",
     "section": "",
     "text": "Serandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species. Limnology and Oceanography. doi:10.1002/lno.12705\n Back to Publications"
+  },
+  {
+    "objectID": "CV/index.html#awards-and-grants",
+    "href": "CV/index.html#awards-and-grants",
+    "title": "Curriculum Vitae",
+    "section": "Awards and grants",
+    "text": "Awards and grants\nElisabeth och Herman Rhodin Memorial Foundation 2024  Travel grant\nICES travel funds for early career scientists 2024  Travel grant\nBalticWaters Scholarship program for early career researchers 2024  Competition between forage fish in the open waters of the Baltic Sea\nDryssen Award for best Master’s Theses in Marine Sciences 2021  Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding"
+  },
+  {
+    "objectID": "CV/index.html#academic-services",
+    "href": "CV/index.html#academic-services",
+    "title": "Curriculum Vitae",
+    "section": "Academic services",
+    "text": "Academic services\n\nAd-hoc reviews\nLimnology and Oceanography Letters  Molecular Ecology"
   }
 ]
