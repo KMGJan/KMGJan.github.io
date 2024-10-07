@@ -18,6 +18,7 @@ author:
     affiliations:
       - Unité Biologie des Organismes et Ecosystèmes aquatiques (BOREA UMR 7208), Muséum National d’Histoire Naturelle, Sorbonne Universités, Université de Caen Normandie, Université des Antilles, CNRS, IRD, Paris, France
   - name: Berta Ramiro-Sánchez
+    orcid: 0000-0002-9989-7270
     affiliations:
       - Unité Biologie des Organismes et Ecosystèmes aquatiques (BOREA UMR 7208), Muséum National d’Histoire Naturelle, Sorbonne Universités, Université de Caen Normandie, Université des Antilles, CNRS, IRD, Paris, France
   - name: Eleanore Campbell
