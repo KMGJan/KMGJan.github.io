@@ -6,16 +6,11 @@ listing:
     max-description-length: 80
     image-height: 250px
     fields: [author, Year, Journal, title]
-    contents: 
-      - publication/paper5.qmd
-      - publication/paper4.qmd
-      - publication/paper3.qmd
-      - publication/paper2.qmd
-      - publication/paper1.qmd
+    contents: publications
     type: table
     table-striped: true
     table-hover: false
-    categories: unnumbered
+    categories: cloud
     grid-item-border: false
     sort:
       - "date desc"
@@ -24,9 +19,13 @@ listing:
       - "author"
       - "Journal"
       - "title"
-    filter-ui: false
+    filter-ui:
+      - "Year"
+      - "author"
+      - "Journal"
+      - "title"
     field-display-names:
-      author: "Authors" 
+      author: "Authors"
 ---
 
 
