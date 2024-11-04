@@ -41,7 +41,8 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 [Expected defense date:]{.subedu} [February 2026]{.course}
 <br>
 [[Courses:]{.subedu}
-[- Scientific Writing, BioResearch School, Stockholm University, Sweden]{.courseList1} [2023 -- 2024]{.coursedate} <br>
+[- Introduction to Stock Assessment, ICES, Denmark]{.courseList1} [2024]{.coursedate} <br>
+[- Scientific Writing, BioResearch School, Stockholm University, Sweden]{.courseList} [2023 -- 2024]{.coursedate} <br>
 [- RaukR - Advanced R for Bioinformatics, NBIS, Sweden]{.courseList} [2023]{.coursedate} <br>
 [- Introduction to Bioinformatics using NGS data, NBIS, Sweden]{.courseList} [2022]{.coursedate} <br>
 [- Fish and Fisheries Ecology, SLU, Sweden]{.courseList} [2021]{.coursedate}]{.no-print}
