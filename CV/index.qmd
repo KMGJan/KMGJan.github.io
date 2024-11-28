@@ -125,6 +125,9 @@ Novotny A, ***Jan KMG***, Dierking J, Winder M. 2022. [*Niche partitioning betwe
 
 ## Conferences
 
+[**Marine Research Days 2024** | Talk [**Kalmar, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. [*Are small pelagic fish competing for their resources in the central Baltic Sea?*]{.pubtitle}.
+
 [**ICES Annual Science Conference 2024** | Poster [**Gateshead, United Kingdom**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. [*Implication of resource competition for forage fish dynamics in the central Baltic Sea*]{.pubtitle}.
 
