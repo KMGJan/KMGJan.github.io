@@ -112,7 +112,7 @@ Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate} <br>
 
 ## Publications
 
-Serandour B, Blenckner T, ***Jan KMG***, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography. doi:[10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
+Serandour B, Blenckner T, ***Jan KMG***, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography **69**:12, 2801-2814. doi:[10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
 
 ***Jan KMG***, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual cycle shape trophic interactions under climate change*]{.pubtitle}. Limnology and Oceanography Letters **9**:3, 209-218. doi: [10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.doi target=_blank}
 
