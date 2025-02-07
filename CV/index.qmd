@@ -125,6 +125,9 @@ Novotny A, ***Jan KMG***, Dierking J, Winder M. 2022. [*Niche partitioning betwe
 
 ## Conferences
 
+[**Swedish Oikos Meeting 2025** | Talk [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. [*Resource competition between small pelagic fish in the central Baltic Sea*]{.pubtitle}.
+
 [**Marine Research Days 2024** | Talk [**Kalmar, Sweden**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. [*Are small pelagic fish competing for their resources in the central Baltic Sea?*]{.pubtitle}.
 
