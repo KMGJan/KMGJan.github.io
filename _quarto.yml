@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "[Kinlan M.G. Jan]{.myname}"
   page-footer:
-    left:  "2024 Kinlan M.G. Jan"
+    left:  "2025 Kinlan M.G. Jan"
     center: "[{{< fa brands github >}} Source Code](https://github.com/KMGJan/KMGJan.github.io){target=_blank}"
     right: This website is built with [Quarto](https://quarto.org/){target=_blank}. 
   navbar:

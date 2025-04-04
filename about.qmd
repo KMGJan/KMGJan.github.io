@@ -23,8 +23,6 @@ about:
 ---
 
 
-
-
 ::: {.intro #hero-heading}
 
 I am a PhD Student at [Stockholm University](https://www.su.se/english/profiles/kija1054-1.574327?open-collapse-boxes=research-projects){.button target=_blank} working in the lab of [Prof. Monika Winder](https://winderlab.com/about/){.button target=_blank}.

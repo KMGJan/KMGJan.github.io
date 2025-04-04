@@ -12,13 +12,13 @@ listing:
     table-hover: false
     categories: cloud
     grid-item-border: false
-    sort:
-      - "date desc"
     sort-ui: 
       - "Year"
       - "author"
       - "Journal"
       - "title"
+    sort:
+      - "date desc"
     filter-ui:
       - "Year"
       - "author"
