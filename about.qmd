@@ -1,6 +1,6 @@
 ---
 title: "Kinlan M.G. Jan"
-image: img/profile.jpg
+image: CV/assets/me.svg
 about:
   id: hero-heading
   template: trestles
@@ -25,7 +25,7 @@ about:
 
 ::: {.intro #hero-heading}
 
-I am a PhD Student at [Stockholm University](https://www.su.se/english/profiles/kija1054-1.574327?open-collapse-boxes=research-projects){.button target=_blank} working in the lab of [Prof. Monika Winder](https://winderlab.com/about/){.button target=_blank}.
+I am a PhD Student at [Stockholm University](https://www.su.se/english/profiles/kija1054-1.574327?open-collapse-boxes=research-projects){.button target=_blank} working in [Prof. Monika Winder group](https://winderlab.com/about/){.button target=_blank}.
 
 
 I am interested in aquatic food web dynamics, particularly at lower trophic levels. The primary aim of my research is to investigate plankton dynamics and planktivorous fish prey selectivity in the Baltic Sea using different tools including:

@@ -1,7 +1,7 @@
 ---
 title: "Working Project IV"
 toc: false
-image: "image.gif"
+image: "dna2flux.gif"
 ---
 This project aims to assess the energy fluxes from primary producers to planktivorous fish.
 
