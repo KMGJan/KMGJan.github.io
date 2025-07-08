@@ -1,0 +1,34 @@
+---
+title: "Limited resource use overlaps among small pelagic fish species in the central Baltic Sea"
+author:
+  - name: <b>Kinlan M.G. Jan</b>
+    orcid: 0000-0002-5579-0017
+    affiliations:
+      - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
+  - name: Jonas Hentati-Sundberg
+    orcid: 0000-0002-3201-9262
+    affiliations:
+      - Department of Aquatic Resources, Swedish University of Agricultural Sciences, Uppsala, Sweden
+  - name: Niklas Larson
+    orcid: 0000-0001-6296-8410
+    affiliations:
+      - Department of Aquatic Resources, Swedish University of Agricultural Sciences, Uppsala, Sweden
+  - name: Monika Winder
+    orcid: 0000-0001-9467-3035 
+    affiliations:
+      - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
+Year: "2025"
+doi: "https://doi.org/10.1093/icesjms/fsaf122"
+Journal: ICES Journal of Marine Science
+categories:
+  - "Fish"
+  - "Zooplankton"
+  - "Diet composition"
+  - "DNA metabarcoding"
+  - "Stable isotopes "
+---
+
+Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. *Limited resource use overlaps among small pelagic fish species in the central Baltic Sea.* ICES Journal of Marine Science. doi:10.1093/icesjms/fsaf12
+
+
+[{{< fa arrow-left >}} Back to Publications](../../Publications){.ChangePageLeft}
