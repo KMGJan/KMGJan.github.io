@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-lang: en
+lang: fr
 format: 
   html:
     toc: true
@@ -18,13 +18,13 @@ format:
   pdf:
     author: Kinlan M.G. Jan
     pdf-engine: weasyprint
-css: CV.css
+css: CV_french.css
 format-links: [pdf]
 ---
 
 
 ::: {.print-only .contact-block}
-**PhD Student in Marine Biology** <br>
+**Doctorant en biologie marine** <br>
 Department of Ecology, Environment and Plant Sciences, Stockholm University
 
 [kinlan.jan@su.se](mailto:kinlan.jan@su.se){.email}
@@ -33,83 +33,83 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 :::
 
 
-## Education 
+## Éducation 
 
-[[[**PhD**]{.educationtitle} **in Marine Biology**]{.edu} [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
-[Stockholm University [*September 2021 --- Present*]{.cvdate}]{.cvcontainer}
+[[[**PhD**]{.educationtitle} **en biologie marine**]{.edu} [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
+[Stockholm University [*Septembre 2021 --- Présent*]{.cvdate}]{.cvcontainer}
 
-[Preliminary thesis title:]{.subedu} [Implication of plankton-fish interactions and dynamics for the Baltic Sea food webs]{.course}
+[Titre préliminaire de thèse :]{.subedu} [Implication of plankton-fish interactions and dynamics for the Baltic Sea food webs]{.course}
 <br>
-[Expected defense date:]{.subedu} [January 2026]{.course}
+[Date de défense prévue :]{.subedu} [Janvier 2026]{.course}
 <br>
-[[Courses:]{.subedu}
-[- Introduction to Stock Assessment, ICES, Denmark]{.courseList1} [2024]{.coursedate} <br>
-[- Scientific Writing, BioResearch School, Stockholm University, Sweden]{.courseList} [2023 -- 2024]{.coursedate} <br>
-[- RaukR - Advanced R for Bioinformatics, NBIS, Sweden]{.courseList} [2023]{.coursedate} <br>
-[- Introduction to Bioinformatics using NGS data, NBIS, Sweden]{.courseList} [2022]{.coursedate} <br>
-[- Fish and Fisheries Ecology, SLU, Sweden]{.courseList} [2021]{.coursedate}]{.no-print}
+[[Cours : ]{.subedu}
+[- Introduction to Stock Assessment, ICES, Danemark]{.courseList1} [2024]{.coursedate} <br>
+[- Scientific Writing, BioResearch School, Stockholm University, Suède]{.courseList} [2023 -- 2024]{.coursedate} <br>
+[- RaukR - Advanced R for Bioinformatics, NBIS, Suède]{.courseList} [2023]{.coursedate} <br>
+[- Introduction to Bioinformatics using NGS data, NBIS, Suède]{.courseList} [2022]{.coursedate} <br>
+[- Fish and Fisheries Ecology, SLU, Suède]{.courseList} [2021]{.coursedate}]{.no-print}
 
-[[[**MSc**]{.educationtitle} **in Marine Biology**]{.edu} [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
-[Stockholm University [*August 2019 --- June 2021*]{.cvdate}]{.cvcontainer}
+[[[**MSc**]{.educationtitle} **en biologie marine**]{.edu} [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
+[Stockholm University [*Août 2019 --- Juin 2021*]{.cvdate}]{.cvcontainer}
 
-[Master project title:]{.subedu} [Copepod feeding preferences along the Baltic Sea environmental gradients]{.course}
+[Titre de projet de Master :]{.subedu} [Copepod feeding preferences along the Baltic Sea environmental gradients]{.course}
 <br>
-[[Courses:]{.subedu}
+[[Cours:]{.subedu}
 [- Baltic Sea Ecosystem: Applications, Modeling and Management]{.courseList1} [2020]{.coursedate} <br>
 [- Management of Aquatic Resources in the Tropics]{.courseList} [2020]{.coursedate} <br>
 [- Applied Marine Conservation Ecology]{.courseList} [2019-2020]{.coursedate} <br>
 [- Biological Statistics]{.courseList} [2019]{.coursedate} <br>
 [- Marine Ecosystem Dynamics]{.courseList} [2019]{.coursedate} ]{.no-print}
 
-[[[**BSc**]{.educationtitle} **in Biology**]{.edu} [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br>
-[The University of Neuchâtel [*September 2017 --- June 2019*]{.cvdate}]{.cvcontainer}
+[[[**BSc**]{.educationtitle} **en biologie**]{.edu} [**Neuchâtel, Suisse**]{.cvlocation}]{.cvcontainer} <br>
+[Université de Neuchâtel [*Septembre 2017 --- Juin 2019*]{.cvdate}]{.cvcontainer}
 
 
-## Teaching
+## Enseignement
 
-[**Stockholm University** [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
-[Marine ecosystem dynamics, [MSc]{.educationtitle} course]{.edu} [*2021 --- Present*]{.cvdate} <br>
-[Marine ecology, [BSc]{.educationtitle} course]{.edu} [*2022*]{.cvdate}
+[**Stockholm University** [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
+[Marine ecosystem dynamics, Niveau [MSc]{.educationtitle} ]{.edu} [*2021 --- 2025*]{.cvdate} <br>
+[Marine ecology, Niveau [BSc]{.educationtitle} ]{.edu} [*2022*]{.cvdate}
 
-[**The University of Neuchâtel** [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br> [From molecules to cells, [BSc]{.educationtitle} course]{.edu} [*2018 --- 2019*]{.cvdate}
-
-
-## Commissions of trust
-
-[Chair of the [PhD]{.educationtitle} council]{.edu} [*2023*]{.cvdate} <br>
-[Vice-chair of the [PhD]{.educationtitle} council]{.edu} [*2022*]{.cvdate} <br>
-[Technical assistance with [PhD]{.educationtitle} hybrid defenses]{.edu} [*2022 --- 2023*]{.cvdate}
+[**Université de Neuchâtel** [**Neuchâtel, Suisse**]{.cvlocation}]{.cvcontainer} <br> [Des molécules aux cellules, Niveau [BSc]{.educationtitle}]{.edu} [*2018 --- 2019*]{.cvdate}
 
 
-## Awards and grants
+## Mandats de confiance
 
-Elisabeth och Herman Rhodin Memorial Foundation [*2024*]{.cvdate} <br> [*Travel grant*]{.edu}
+[Président du conseil doctoral]{.edu} [*2023*]{.cvdate} <br>
+[Vice-président du conseil doctoral]{.edu} [*2022*]{.cvdate} <br>
+[Assistant technique lors des soutenances hybrides de doctorat]{.edu} [*2022 --- 2023*]{.cvdate}
 
-ICES travel funds for early career scientists [*2024*]{.cvdate} <br> [*Travel grant*]{.edu}
+
+## Prix et bourses
+
+Elisabeth och Herman Rhodin Memorial Foundation [*2024*]{.cvdate} <br> [*Bourse de voyage*]{.edu}
+
+ICES travel funds for early career scientists [*2024*]{.cvdate} <br> [*Bourse de voyage*]{.edu}
 
 BalticWaters Scholarship program for early career researchers [*2024*]{.cvdate} <br> [*Competition between forage fish in the open waters of the Baltic Sea*]{.edu}
 
 Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate} <br> [*Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding*]{.edu}
 
 
-## Experience
+## Expérience
 
-### Field work
+### Travail de terrain
 
-**Fish sampling** <br>
-[Herring Larvae Survey in the Stockholm archipelago]{.edu} [2023 --- 2024]{.cvdate} <br>
-[Sprat Acoustic Survey in the Baltic Sea]{.edu} [2022 --- 2023]{.cvdate}
+**Échantillonnage de poissons** <br>
+[Campagne sur les larves de hareng]{.edu} [2023 --- 2024]{.cvdate} <br>
+[Campagne acoustique sur le sprat en mer Baltique]{.edu} [2022 --- 2023]{.cvdate}
 
-**Zooplankton sampling** <br>
-[Monitoring survey in the Baltic Sea]{.edu} [September 2020]{.cvdate}
+**Échantillonnage de plancton** <br>
+[Campagne de suivi en mer Baltique]{.edu} [Septembre 2020]{.cvdate}
 
-### Laboratory
+### Travail en laboratoire
 
-**DNA Metabarcoding** <br>
-[Library preparation | DNA extraction | PCR | Gel electrophoresis]{.pubtitle}
+**Métabarcoding de l'ADN** <br>
+[Préparation de librairies | Extraction d’ADN | PCR | Électrophorèse sur gel]{.pubtitle}
 
-**Zooplankton identification** <br>
-[Microscopy]{.pubtitle}
+**Identification du zooplancton** <br>
+[Microscopie]{.pubtitle}
 
 
 ## Publications
@@ -127,35 +127,35 @@ Serandour B, ***Jan KMG***, Novotny A, Winder M. 2023. [*Opportunisitic vs selec
 Novotny A, ***Jan KMG***, Dierking J, Winder M. 2022. [*Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy*]{.pubtitle}. Scientific Reports **12**, 10952. doi: [10.1038/s41598-022-15116-7](https://doi.org/10.1038/s41598-022-15116-7){.doi target=_blank}
 
 
-## Conferences
+## Conférences
 
-[**Swedish Oikos Meeting 2025** | Talk [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+[**Swedish Oikos Meeting 2025** | Présentation orale [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. [*Resource competition between small pelagic fish in the central Baltic Sea*]{.pubtitle}.
 
-[**Marine Research Days 2024** | Talk [**Kalmar, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+[**Marine Research Days 2024** | Présentation orale [**Kalmar, Suède**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. [*Are small pelagic fish competing for their resources in the central Baltic Sea?*]{.pubtitle}.
 
-[**ICES Annual Science Conference 2024** | Poster [**Gateshead, United Kingdom**]{.cvlocation}]{.cvcontainer} <br>
+[**ICES Annual Science Conference 2024** | Poster [**Gateshead, Royaume-Uni**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. [*Implication of resource competition for forage fish dynamics in the central Baltic Sea*]{.pubtitle}.
 
-[**Baltic Sea Science Congress 2023** | Talk [**Helsinki, Finland**]{.cvlocation}]{.cvcontainer} <br>
+[**Baltic Sea Science Congress 2023** | Présentation orale [**Helsinki, Finlande**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Serandour B, Walve J, Winder M. [*Species-specific phenological responses to climate pose consequences for trophic coupling*]{.pubtitle}.
 
-[**ASLO Aquatic Sciences Meeting 2023** | Poster [**Palma de Mallorca, Spain**]{.cvlocation}]{.cvcontainer} <br>
+[**ASLO Aquatic Sciences Meeting 2023** | Poster [**Palma de Majorque, Espagne**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Serandour B, Walve J, Winder M. [*Species-specific phenological responses to climate pose consequences for higher trophic levels*]{.pubtitle}.
 
-[**Marine Research Days 2022** | Talk [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+[**Marine Research Days 2022** | Présentation orale [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Serandour B, Winder M. [*Coupling of plankton and small pelagic fish in the Baltic Sea*]{.pubtitle}.
 
-[**18^th^ International Symposium on Microbial Ecology 2022** | Poster [**Lausanne, Switzerland**]{.cvlocation}]{.cvcontainer} <br>
+[**18^th^ International Symposium on Microbial Ecology 2022** | Poster [**Lausanne, Suisse**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Novotny A, Dierking J, Winder M. [*The role of eukaryotic microorganisms for niche partitioning of planktivorous fish*]{.pubtitle}.
 
-[**Marine Research Days 2021** | Talk [**Gothenburg, Sweden**]{.cvlocation}]{.cvcontainer} <br>
+[**Marine Research Days 2021** | Présentation orale [**Gothenburg, Suède**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***. [*Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding*]{.pubtitle}.
 
-## Academic services
+## Services académiques
 
-### Ad-hoc reviews
+### Évaluations ponctuelles (reviews)
 
 [Limnology and Oceanography Letters]{.pubtitle} <br>
 [Molecular Ecology]{.pubtitle} <br>

@@ -27,7 +27,12 @@ website:
         - text: "Teaching"
           href: projects/Teaching/index.qmd
       - text: "{{< fa address-card >}} Curriculum Vitae"
-        href: CV/index.qmd
+        menu:
+        - text: "English 🇬🇧"
+          href: CV/index.qmd
+        - text: "Français 🇫🇷"
+          href: CV/CV_french.qmd
+
       - text: "{{< fa brands github >}}"
         href: "https://github.com/KMGJan"
         target: "_blank"
