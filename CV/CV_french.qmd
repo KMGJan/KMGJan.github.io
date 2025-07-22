@@ -114,7 +114,7 @@ Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate} <br>
 
 ## Publications
 
-***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science. doi:[10.1093/icesjms/fsaf12](https://doi.org/10.1093/icesjms/fsaf12){.doi target=_blank}
+***Jan KMG***, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science. doi:[10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}
 
 Serandour B, Blenckner T, ***Jan KMG***, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography **69**:12, 2801-2814. doi:[10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
 

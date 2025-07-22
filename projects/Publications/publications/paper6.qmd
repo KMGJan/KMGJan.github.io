@@ -28,7 +28,7 @@ categories:
   - "Stable isotopes "
 ---
 
-Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. *Limited resource use overlaps among small pelagic fish species in the central Baltic Sea.* ICES Journal of Marine Science. doi:10.1093/icesjms/fsaf12
+Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. *Limited resource use overlaps among small pelagic fish species in the central Baltic Sea.* ICES Journal of Marine Science. doi:10.1093/icesjms/fsaf122
 
 
 [{{< fa arrow-left >}} Back to Publications](../../Publications){.ChangePageLeft}

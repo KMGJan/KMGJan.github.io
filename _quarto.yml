@@ -24,8 +24,6 @@ website:
           href: projects/PhD/index.qmd
         - text: "Publications"
           href: projects/Publications/index.qmd
-        - text: "Teaching"
-          href: projects/Teaching/index.qmd
       - text: "{{< fa address-card >}} Curriculum Vitae"
         menu:
         - text: "English 🇬🇧"

@@ -1,7 +1,7 @@
 ---
 title: "Working Project III"
 toc: false
-image: "image.gif"
+image: "image.png"
 ---
 
 _**Limited resource use overlaps among small pelagic fish species in the central Baltic Sea**_
