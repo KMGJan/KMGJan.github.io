@@ -16,28 +16,22 @@ website:
     align: center
     collapse-level: 1
     right:
-      - text: "About me"
-        href: about.qmd
-      - text: "{{< fa paperclip >}} Projects"
-        menu:
-        - text: "PhD project"
-          href: projects/PhD/index.qmd
-        - text: "Publications"
-          href: projects/Publications/index.qmd
+      - text: "{{< fa graduation-cap >}} PhD projects"
+        href: PhD/index.qmd
+      - text: "{{< fa paperclip >}}Publications"
+        href: Publications/index.qmd
       - text: "{{< fa address-card >}} Curriculum Vitae"
         menu:
         - text: "English 🇬🇧"
           href: CV/index.qmd
         - text: "Français 🇫🇷"
           href: CV/CV_french.qmd
-
       - text: "{{< fa brands github >}}"
         href: "https://github.com/KMGJan"
         target: "_blank"
       - text: "{{< fa paper-plane >}}"
         href: mailto:kinlan.jan@su.se
-
-
+        
 format:
   html:
     theme: [cosmo, theme-light.scss]

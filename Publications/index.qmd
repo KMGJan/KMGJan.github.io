@@ -1,0 +1,34 @@
+---
+title: "Publications"
+image: "image.svg"
+listing: 
+  - id: publication
+    max-description-length: 80
+    image-height: 250px
+    fields: [author, Year, Journal, title]
+    contents: publications
+    type: table
+    table-striped: true
+    table-hover: false
+    categories: cloud
+    grid-item-border: false
+    sort-ui: 
+      - "Year"
+      - "author"
+      - "Journal"
+      - "title"
+    sort:
+      - "date desc"
+    filter-ui:
+      - "Year"
+      - "author"
+      - "Journal"
+      - "title"
+    field-display-names:
+      author: "Authors"
+---
+
+
+::: {#publication}
+:::
+

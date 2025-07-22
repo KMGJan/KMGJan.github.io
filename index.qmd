@@ -1,9 +1,9 @@
 ---
 title: "Welcome"
-image: img/profile.jpg
+image: CV/assets/me.svg
 about:
   id: hero-heading
-  template: jolla
+  template: trestles
   image-shape: round
   links:
     - icon: linkedin
@@ -17,16 +17,30 @@ about:
     - text: "{{< fa brands researchgate >}} Researchgate"
       href: https://www.researchgate.net/profile/Kinlan-Jan
       target: "_blank"
+    - text: "{{< fa google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=Vf6gRpIAAAAJ&hl=fr&oi=ao
+      target: "_blank"
 
 ---
 
+::: {.intro #hero-heading}
+Hello, I am **Kinlan M.G. Jan**, a PhD Student in marine biology at [Stockholm University](https://www.su.se/english/profiles/kija1054-1.574327?open-collapse-boxes=research-projects){.button target=_blank} working in [Prof. Monika Winder group](https://winderlab.com/about/){.button target=_blank}.
 
-:::{.center}
+I am interested in aquatic food web dynamics, particularly at lower trophic levels. The primary aim of my research is to investigate plankton dynamics and planktivorous fish prey selectivity in the Baltic Sea using different tools including:
 
-Hello, I am **Kinlan M.G. Jan**, a PhD student in marine biology passionate about plankton and trophic ecology.
+::: {.listing}
+{{< fa dna title="DNA" >}} DNA metabarcoding <br>
+{{< fa microscope title="microscope" >}} Microscopy <br>
+{{< fa chart-line title="chart" >}}  Time series analysis
+:::
 
-If you have any question, please contact me by [email {{< fa paper-plane >}}](mailto:kinlan.jan@su.se){.button} or by clicking on any link below.
+Beside my studies, I enjoy:
 
-On this website, I am posting about my projects.
+::: {.listing}
+{{< fa sailboat title="sailboat" >}} Sailing  <br>
+{{< fa suitcase title="suitcase" >}}  Travelling  ️<br>
+{{< fa person-running title="running" >}}  Running
+:::
 
 :::
+

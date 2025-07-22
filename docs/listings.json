@@ -1,22 +1,22 @@
 [
   {
-    "listing": "/projects/Publications/index.html",
+    "listing": "/Publications/index.html",
     "items": [
-      "/projects/Publications/publications/paper6.html",
-      "/projects/Publications/publications/paper5.html",
-      "/projects/Publications/publications/paper4.html",
-      "/projects/Publications/publications/paper1.html",
-      "/projects/Publications/publications/paper3.html",
-      "/projects/Publications/publications/paper2.html"
+      "/Publications/publications/paper6.html",
+      "/Publications/publications/paper5.html",
+      "/Publications/publications/paper4.html",
+      "/Publications/publications/paper1.html",
+      "/Publications/publications/paper3.html",
+      "/Publications/publications/paper2.html"
     ]
   },
   {
-    "listing": "/projects/PhD/index.html",
+    "listing": "/PhD/index.html",
     "items": [
-      "/projects/PhD/Project1/index.html",
-      "/projects/PhD/Project2/index.html",
-      "/projects/PhD/Project3/index.html",
-      "/projects/PhD/Project4/index.html"
+      "/PhD/Project1/index.html",
+      "/PhD/Project2/index.html",
+      "/PhD/Project3/index.html",
+      "/PhD/Project4/index.html"
     ]
   }
 ]

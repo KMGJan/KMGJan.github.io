@@ -4,4 +4,4 @@ title: Page Not Found
 
 The page you requested cannot be found.
 
-<img src="404.svg">
+<img src="img/404.svg">
