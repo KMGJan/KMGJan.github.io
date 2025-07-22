@@ -23,7 +23,7 @@ website:
       - text: "{{< fa address-card >}} Curriculum Vitae"
         menu:
         - text: "English 🇬🇧"
-          href: CV/index.qmd
+          href: CV/CV_english.qmd
         - text: "Français 🇫🇷"
           href: CV/CV_french.qmd
       - text: "{{< fa brands github >}}"
