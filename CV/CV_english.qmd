@@ -18,7 +18,7 @@ format:
   pdf:
     author: Kinlan M.G. Jan
     pdf-engine: weasyprint
-css: CV.css
+css: CV_english.css
 format-links: [pdf]
 ---
 
