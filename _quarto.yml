@@ -16,7 +16,7 @@ website:
     align: center
     collapse-level: 1
     right:
-      - text: "{{< fa graduation-cap >}} PhD projects"
+      - text: "{{< fa graduation-cap >}} PhD project"
         href: PhD/index.qmd
       - text: "{{< fa paperclip >}}Publications"
         href: Publications/index.qmd
