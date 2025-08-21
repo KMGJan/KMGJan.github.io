@@ -39,4 +39,4 @@ format:
     toc: false
     mainfont: Jost
 execute:
-  freeze: true
+  freeze: auto
