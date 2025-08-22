@@ -29,7 +29,7 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 
 [kinlan.jan@su.se](mailto:kinlan.jan@su.se){.email}
 [0000-0002-5579-0017](https://orcid.org/0000-0002-5579-0017){.orcid}
-[KMGJan](https://github.com/KMGJan){.github}
+[KMGJan](https://kmgjan.github.io){.github}
 :::
 
 
