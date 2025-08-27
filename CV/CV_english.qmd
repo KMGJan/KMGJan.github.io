@@ -147,7 +147,7 @@ Novotny A, ***Jan KMG***, Dierking J, Winder M. 2022. [*Niche partitioning betwe
 [**Marine Research Days 2022** | Talk [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Serandour B, Winder M. [*Coupling of plankton and small pelagic fish in the Baltic Sea*]{.pubtitle}.
 
-[**18^th^ International Symposium on Microbial Ecology 2022** | Poster [**Lausanne, Switzerland**]{.cvlocation}]{.cvcontainer} <br>
+[**18^th^ ISME 2022** | Poster [**Lausanne, Switzerland**]{.cvlocation}]{.cvcontainer} <br>
 ***Jan KMG***, Novotny A, Dierking J, Winder M. [*The role of eukaryotic microorganisms for niche partitioning of planktivorous fish*]{.pubtitle}.
 
 [**Marine Research Days 2021** | Talk [**Gothenburg, Sweden**]{.cvlocation}]{.cvcontainer} <br>
