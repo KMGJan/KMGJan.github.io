@@ -117,7 +117,7 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
       size: a4 portrait;
       counter-increment: page;
       @bottom-right {
-        content: counter(page) " of " counter(pages);
+        content: counter(page) " / " counter(pages);
         font-size: 10pt;
         text-align: right;
       }
