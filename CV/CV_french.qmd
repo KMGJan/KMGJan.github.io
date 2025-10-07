@@ -57,7 +57,7 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 [[Cours:]{.subedu}
 [- Baltic Sea Ecosystem: Applications, Modeling and Management]{.courseList1} [2020]{.coursedate} <br>
 [- Management of Aquatic Resources in the Tropics]{.courseList} [2020]{.coursedate} <br>
-[- Applied Marine Conservation Ecology]{.courseList} [2019-2020]{.coursedate} <br>
+[- Applied Marine Conservation Ecology]{.courseList} [2019 -- 2020]{.coursedate} <br>
 [- Biological Statistics]{.courseList} [2019]{.coursedate} <br>
 [- Marine Ecosystem Dynamics]{.courseList} [2019]{.coursedate} ]{.no-print}
 
