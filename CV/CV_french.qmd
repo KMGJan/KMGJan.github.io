@@ -38,7 +38,7 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 [[[**PhD**]{.educationtitle} **en biologie marine**]{.edu} [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
 [Stockholm University [*Septembre 2021 --- Présent*]{.cvdate}]{.cvcontainer}
 
-[Titre préliminaire de thèse :]{.subedu} [Implication of plankton-fish interactions and dynamics for the Baltic Sea food webs]{.course}
+[Titre préliminaire de thèse :]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea]{.course}
 <br>
 [Date de défense prévue :]{.subedu} [Janvier 2026]{.course}
 <br>
