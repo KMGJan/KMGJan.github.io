@@ -38,9 +38,9 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 [[[**PhD**]{.educationtitle} **in Marine Biology**]{.edu} [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
 [Stockholm University [*September 2021 --- Present*]{.cvdate}]{.cvcontainer}
 
-[Preliminary thesis title:]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea]{.course}
+[Thesis title:]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.course target=_blank}
 <br>
-[Expected defense date:]{.subedu} [January 2026]{.course}
+[Defense date:]{.subedu} [January 23 2026]{.course}
 <br>
 [[Courses:]{.subedu}
 [- Introduction to Stock Assessment, ICES, Denmark]{.courseList1} [2024]{.coursedate} <br>
@@ -161,4 +161,3 @@ Novotny A, ***Jan KMG***, Dierking J, Winder M. 2022. [*Niche partitioning betwe
 [Limnology and Oceanography Letters]{.pubtitle} <br>
 [Marine Ecology Progress Series]{.pubtitle} <br>
 [Molecular Ecology]{.pubtitle}
-

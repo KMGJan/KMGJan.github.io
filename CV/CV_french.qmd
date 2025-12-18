@@ -38,10 +38,11 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 [[[**PhD**]{.educationtitle} **en biologie marine**]{.edu} [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
 [Stockholm University [*Septembre 2021 --- Présent*]{.cvdate}]{.cvcontainer}
 
-[Titre préliminaire de thèse :]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea]{.course}
+[Titre de thèse :]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.course target=_blank}
 <br>
-[Date de défense prévue :]{.subedu} [Janvier 2026]{.course}
+[Date de soutenance :]{.subedu} [23 Janvier 2026]{.course}
 <br>
+
 [[Cours : ]{.subedu}
 [- Introduction to Stock Assessment, ICES, Danemark]{.courseList1} [2024]{.coursedate} <br>
 [- Scientific Writing, BioResearch School, Stockholm University, Suède]{.courseList} [2023 -- 2024]{.coursedate} <br>
