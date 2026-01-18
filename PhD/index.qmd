@@ -20,7 +20,7 @@ listing:
     sort: false
 ---
 
-My PhD thesis [**Resolving diversity and ecosystem functioning in a changing sea**](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.button target=_blank} aims to answer the question: *How do the dynamics of plankton communities and their interactions with fish shape ecosystem functioning under changing environmental conditions?* using multiple approaches.
+My PhD thesis [**Resolving diversity and ecosystem functioning in a changing sea**](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.button target=_blank} aims to answer the question: *How do the dynamics of plankton communities and their interactions with fish shape ecosystem functioning under changing environmental conditions?*
 
 My PhD thesis will be defended at the end of January 2026. More information can be found [here](https://www.su.se/english/divisions/department-of-ecology-environment-and-plant-sciences/calendar/events/2025-12-05-phd-thesis-defence-kinlan-jan){target=_blank}.
 
