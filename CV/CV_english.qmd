@@ -24,10 +24,9 @@ format-links: [pdf]
 
 
 ::: {.print-only .contact-block}
-**PhD Student in Marine Biology** <br>
-Department of Ecology, Environment and Plant Sciences, Stockholm University
+**PhD in Marine Biology** <br>
 
-[kinlan.jan@su.se](mailto:kinlan.jan@su.se){.email}
+[kinlan.jan@hotmail.ch](mailto:kinlan.jan@hotmail.ch){.email}
 [0000-0002-5579-0017](https://orcid.org/0000-0002-5579-0017){.orcid}
 [KMGJan](https://github.com/KMGJan){.github}
 :::
@@ -36,11 +35,9 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 ## Education 
 
 [[[**PhD**]{.educationtitle} **in Marine Biology**]{.edu} [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
-[Stockholm University [*September 2021 --- Present*]{.cvdate}]{.cvcontainer}
+[Stockholm University [*September 2021 --- January 2026*]{.cvdate}]{.cvcontainer}
 
 [Thesis title:]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.course target=_blank}
-<br>
-[Defense date:]{.subedu} [January 23 2026]{.course}
 <br>
 [[Courses:]{.subedu}
 [- Introduction to Stock Assessment, ICES, Denmark]{.courseList1} [2024]{.coursedate} <br>

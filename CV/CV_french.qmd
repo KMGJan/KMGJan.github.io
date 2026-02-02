@@ -24,10 +24,10 @@ format-links: [pdf]
 
 
 ::: {.print-only .contact-block}
-**Doctorant en biologie marine** <br>
-Department of Ecology, Environment and Plant Sciences, Stockholm University
+**Docteur en biologie marine** <br>
 
-[kinlan.jan@su.se](mailto:kinlan.jan@su.se){.email}
+
+[kinlan.jan@hotmail.ch](mailto:kinlan.jan@hotmail.ch){.email}
 [0000-0002-5579-0017](https://orcid.org/0000-0002-5579-0017){.orcid}
 [KMGJan](https://github.com/KMGJan){.github}
 :::
@@ -36,11 +36,9 @@ Department of Ecology, Environment and Plant Sciences, Stockholm University
 ## Éducation 
 
 [[[**PhD**]{.educationtitle} **en biologie marine**]{.edu} [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
-[Stockholm University [*Septembre 2021 --- Présent*]{.cvdate}]{.cvcontainer}
+[Stockholm University [*Septembre 2021 --- Janvier 2026*]{.cvdate}]{.cvcontainer}
 
 [Titre de thèse :]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.course target=_blank}
-<br>
-[Date de soutenance :]{.subedu} [23 Janvier 2026]{.course}
 <br>
 
 [[Cours : ]{.subedu}

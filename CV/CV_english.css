@@ -13,6 +13,17 @@
   margin-left: 15px; /* Adjust the spacing between the icon and the email address */
   vertical-align: middle;
 }
+.linkedin:before {
+  content: "";
+  display: inline-block;
+  width: 16px; /* Adjust the width as needed */
+  height: 16px; /* Adjust the height as needed */
+  background-image: url('assets/linkedin.png');
+  background-size: cover;
+  margin-right: 5px; /* Adjust the spacing between the icon and the email address */
+  margin-left: 15px; /* Adjust the spacing between the icon and the email address */
+  vertical-align: middle;
+}
 .orcid:before {
   content: "";
   display: inline-block;
@@ -129,7 +140,7 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   }
   @page:first {
     @top-right {
-      content: "January 2026";
+      content: "February 2026";
       font-size: 10pt;
       font-family: "Times New Roman", serif;
     }
@@ -156,6 +167,14 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   .contact-block {
       margin-top: 0%;
       text-align: center;
+  }
+  .in-contact {
+      margin-top: 0%;
+      text-align: justify;
+  }
+  .core {
+    font-size: 0.9em;
+    text-align: justify;
   }
   
   pdf {

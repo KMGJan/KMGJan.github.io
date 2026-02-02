@@ -8,7 +8,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/kinlan-jan-19b936199/
+      href: https://www.linkedin.com/in/kmgjan/
       target: "_blank"
     - icon: github
       text: GitHub
