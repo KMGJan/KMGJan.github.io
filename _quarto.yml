@@ -30,7 +30,7 @@ website:
         href: "https://github.com/KMGJan"
         target: "_blank"
       - text: "{{< fa paper-plane >}}"
-        href: mailto:kinlan.jan@su.se
+        href: mailto:kinlan.jan@hotmail.ch
         
 format:
   html:

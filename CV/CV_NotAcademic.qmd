@@ -18,7 +18,7 @@ format:
   pdf:
     author: Kinlan M.G. Jan, PhD
     pdf-engine: weasyprint
-css: CV_english.css
+css: CV_french.css
 format-links: [pdf]
 ---
 
@@ -43,7 +43,7 @@ Marine Ecologist | Biodiversity & Ecosystem Strategy
 ## Core Competencies
 
 :::{.core}
-Environmental data synthesis | Biodiversity & ecosystem assessment | Climate change impacts | Stakeholder engagement | Science–policy interface | Project & program coordination | Communication of complex environmental issues | Interdisciplinary teamwork | Quantitative ecological analysis (R) | Molecular biodiversity tools (eDNA)
+Environmental data synthesis | Biodiversity & ecosystem assessment | Climate change impacts | Stakeholder engagement | Science–policy interface | Project management | Program coordination | Communication of complex environmental issues | Interdisciplinary teamwork | Quantitative ecological analysis (R) | Molecular biodiversity tools (eDNA)
 :::
 
 ## Professional Experience
