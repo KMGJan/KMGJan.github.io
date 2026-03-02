@@ -48,7 +48,7 @@
   vertical-align: middle;
 }
 .educationtitle {
-  color: #0d4078;
+  color: black;/*#0d4078;*/
   font-style: italic;
 }
 .cvdate {
@@ -58,7 +58,7 @@
 }
 
 .edu {
-  color: #0d4078;
+  color: black;/* #0d4078;*/
   margin-right: 20%;
 }
 
@@ -129,18 +129,18 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
       counter-increment: page;
       @bottom-right {
         content: counter(page) " of " counter(pages);
-        font-size: 9pt;
+        font-size: 8pt;
         text-align: right;
       }
       @bottom-left {
         content: "Kinlan M.G. Jan";
-        font-size: 10pt;
+        font-size: 9pt;
         text-align: left;
       }
   }
   @page:first {
     @top-right {
-      content: "February 2026";
+      content: "March 2026";
       font-size: 10pt;
       font-family: "Times New Roman", serif;
     }
@@ -154,8 +154,8 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   }
   body {
     --print-date: attr(data-print-date);
-      font-size: 10pt;   /* 👈 sets default font size */
-    line-height: 1.3;  /* optional: improves readability */
+      font-size: 10pt;   /* sets default font size */
+    line-height: 1.2;  /* optional: improves readability */
   }
   .no-print {
       display: none;
@@ -182,14 +182,14 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   }
 
   header {
-    margin-block-end: 5em;
+    margin-block-end: 2.5em; /*this was 5em*/
   }
   header h1.title {
       display: none;
   }
   
   header .author {
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-weight: 700;
     color: black;
     text-align: center;

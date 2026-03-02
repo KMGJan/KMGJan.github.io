@@ -168,7 +168,11 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
       margin-top: 0%;
       text-align: center;
   }
-    .core {
+    .in-contact {
+      margin-top: 0%;
+      text-align: justify;
+  }
+  .core {
     font-size: 0.9em;
     text-align: justify;
   }

@@ -25,7 +25,7 @@ format-links: [pdf]
 
 ::: {.print-only .contact-block}
 
-Écologue aquatique | Biodiversité et fonctionnement des écosystèmes
+Écologue marin | Biodiversité et fonctionnement des écosystèmes
 
 :::{.in-contact}
 [*Scientifique de l’environnement spécialisé en biodiversité, dynamique des écosystèmes et impacts du changement climatique. Expérience dans la traduction de données écologiques complexes en informations exploitables pour la gestion environnementale, l’évaluation des écosystèmes et l’appui à la décision en matière de gestion durable. Parcours fondé sur la collaboration interdisciplinaire, le suivi à long terme et la coordination de projets interinstitutionnels.*]{.core}
@@ -43,7 +43,7 @@ format-links: [pdf]
 ## Compétences clés
 
 :::{.core}
-Synthèse de données environnementales | Évaluation de la biodiversité et des écosystèmes | Impacts du changement climatique | Concertation avec les parties prenantes | Interface science–politique | Gestion de projet | Coordination de programmes | Communication d’enjeux environnementaux complexes | Travail interdisciplinaire | Analyse écologique quantitative (R) | Outils de biodiversité moléculaire (ADNe)
+Synthèse de données environnementales | Évaluation de la biodiversité et des écosystèmes | Impacts du changement climatique | Gestion de projet | Coordination de programmes | Communication d’enjeux environnementaux complexes | Travail interdisciplinaire | Analyse écologique quantitative (R) | Outils de biodiversité moléculaire (ADNe)
 :::
 
 ## Expérience professionnelle

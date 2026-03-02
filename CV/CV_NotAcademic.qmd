@@ -32,6 +32,7 @@ Marine Ecologist | Biodiversity & Ecosystem Strategy
 [*Environmental scientist specializing in biodiversity, ecosystem dynamics, and climate change impacts. Experienced in translating complex ecological data into actionable insights for environmental management, ecosystem assessment, and sustainability decision-making. Background in interdisciplinary collaboration, long-term monitoring, and cross-institution project coordination.*]{.core}
 <br>
 :::
+
 [kinlan.jan@hotmail.ch](mailto:kinlan.jan@hotmail.ch){.email}
 [KMGJan](https://www.linkedin.com/in/KMGJan){.linkedin}
 [KMGJan](https://github.com/KMGJan){.github}
@@ -43,7 +44,7 @@ Marine Ecologist | Biodiversity & Ecosystem Strategy
 ## Core Competencies
 
 :::{.core}
-Environmental data synthesis | Biodiversity & ecosystem assessment | Climate change impacts | Stakeholder engagement | Science–policy interface | Project management | Program coordination | Communication of complex environmental issues | Interdisciplinary teamwork | Quantitative ecological analysis (R) | Molecular biodiversity tools (eDNA)
+Environmental data synthesis | Biodiversity & ecosystem assessment | Climate change impacts | Project management | Program coordination | Communication of complex environmental issues | Interdisciplinary teamwork | Quantitative ecological analysis (R) | Molecular biodiversity tools (eDNA)
 :::
 
 ## Professional Experience
