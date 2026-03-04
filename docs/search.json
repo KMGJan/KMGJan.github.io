@@ -126,6 +126,34 @@
     "text": "Enseignement\nStockholm University Stockholm, Suède  Marine ecosystem dynamics, Niveau MSc 2021 — 2025  Marine ecology, Niveau BSc 2022\nUniversité de Neuchâtel Neuchâtel, Suisse  Des molécules aux cellules, Niveau BSc 2018 — 2019"
   },
   {
+    "objectID": "CV/CV_french.html#expérience",
+    "href": "CV/CV_french.html#expérience",
+    "title": "Curriculum Vitae",
+    "section": "Expérience",
+    "text": "Expérience\nÉchantillonnage de poissons  Campagne sur les larves de hareng 2023 — 2024  Campagne acoustique sur le sprat en mer Baltique 2022 — 2023\nÉchantillonnage de plancton  Campagne de suivi en mer Baltique Septembre 2020\nMétabarcoding de l’ADN  Extraction d’ADN, PCR, préparation de librairies, électrophorèse sur gel\nIdentification du zooplancton  Microscopie\nModélisation des réseaux trophiques et des écosystèmes  Analyse de réseaux trophiques  Intégration de jeux de données de biomasse, environnementales et de métabarcoding  Comparaison et validation de modèles\nBioinformatique (métabarcoding ADN environnemental)  Traitement des séquences et assignation taxonomique"
+  },
+  {
+    "objectID": "CV/CV_french.html#prix-et-bourses",
+    "href": "CV/CV_french.html#prix-et-bourses",
+    "title": "Curriculum Vitae",
+    "section": "Prix et bourses",
+    "text": "Prix et bourses\nElisabeth och Herman Rhodin Memorial Foundation 2024  ICES travel funds for early career scientists 2024  BalticWaters Scholarship program for early career researchers 2024  Dryssen Award for best Master’s Theses in Marine Sciences 2021"
+  },
+  {
+    "objectID": "CV/CV_french.html#publications",
+    "href": "CV/CV_french.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nPublications en premier auteur Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. Limited resource use overlaps among small pelagic fish species in the central Baltic Sea. ICES Journal of Marine Science 82:9, fsaf122. doi:10.1093/icesjms/fsaf122\nJan KMG, Serandour B, Walve J, Winder M. 2024. Plankton blooms over the annual cycle shape trophic interactions under climate change. Limnology and Oceanography Letters 9:3, 209-218. doi: 10.1002/lol2.10385\nNovotny A*, Jan KMG*, Dierking J, Winder M. 2022. Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy. Scientific Reports 12, 10952. doi: 10.1038/s41598-022-15116-7\n* Premiers auteurs partagés\nPublications en co-auteur Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton. ISME Communications, ycaf248. doi:10.1093/ismeco/ycaf248\nSerandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species. Limnology and Oceanography 69:12, 2801-2814. doi:10.1002/lno.12705\nNovotny A, Serandour B, Kortsch S, Gauzens B, Jan KMG, Winder M. 2023. DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model. Science advances 9:17, eadg1096. doi: 10.1126/sciadv.adg1096\nSerandour B, Jan KMG, Novotny A, Winder M. 2023. Opportunisitic vs selective feeding strategies of zooplankton under changing environmental conditions. Journal of Plankton Research 45:2, 389-403. doi: 10.1093/plankt/fbad007"
+  },
+  {
+    "objectID": "CV/CV_french.html#conférences",
+    "href": "CV/CV_french.html#conférences",
+    "title": "Curriculum Vitae",
+    "section": "Conférences",
+    "text": "Conférences\nPrésenté 9 contributions (6 présentations orales, 3 posters) lors de conférences nationales et internationales, dont\n\nOcean Sciences Meeting (2026, Presentation orale)\nICES Annual Science Conference (2024, Poster)\nBaltic Sea Science Congress (2023, Presentation orale)\nASLO Aquatic Sciences Meeting (2023, Poster)"
+  },
+  {
     "objectID": "CV/CV_french.html#mandats-de-confiance",
     "href": "CV/CV_french.html#mandats-de-confiance",
     "title": "Curriculum Vitae",
@@ -133,39 +161,11 @@
     "text": "Mandats de confiance\nPrésident du conseil doctoral 2023  Vice-président du conseil doctoral 2022  Assistant technique lors des soutenances hybrides de doctorat 2022 — 2023"
   },
   {
-    "objectID": "CV/CV_french.html#prix-et-bourses",
-    "href": "CV/CV_french.html#prix-et-bourses",
-    "title": "Curriculum Vitae",
-    "section": "Prix et bourses",
-    "text": "Prix et bourses\nElisabeth och Herman Rhodin Memorial Foundation 2024  Bourse de voyage\nICES travel funds for early career scientists 2024  Bourse de voyage\nBalticWaters Scholarship program for early career researchers 2024  Competition between forage fish in the open waters of the Baltic Sea\nDryssen Award for best Master’s Theses in Marine Sciences 2021  Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding"
-  },
-  {
-    "objectID": "CV/CV_french.html#expérience",
-    "href": "CV/CV_french.html#expérience",
-    "title": "Curriculum Vitae",
-    "section": "Expérience",
-    "text": "Expérience\n\nTravail de terrain\nÉchantillonnage de poissons  Campagne sur les larves de hareng 2023 — 2024  Campagne acoustique sur le sprat en mer Baltique 2022 — 2023\nÉchantillonnage de plancton  Campagne de suivi en mer Baltique Septembre 2020\n\n\nTravail en laboratoire\nMétabarcoding de l’ADN  Préparation de librairies | Extraction d’ADN | PCR | Électrophorèse sur gel\nIdentification du zooplancton  Microscopie"
-  },
-  {
-    "objectID": "CV/CV_french.html#publications",
-    "href": "CV/CV_french.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\nHanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton. ISME Communications, ycaf248. doi:10.1093/ismeco/ycaf248\nJan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. Limited resource use overlaps among small pelagic fish species in the central Baltic Sea. ICES Journal of Marine Science 82:9, fsaf122. doi:10.1093/icesjms/fsaf122\nSerandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species. Limnology and Oceanography 69:12, 2801-2814. doi:10.1002/lno.12705\nJan KMG, Serandour B, Walve J, Winder M. 2024. Plankton blooms over the annual cycle shape trophic interactions under climate change. Limnology and Oceanography Letters 9:3, 209-218. doi: 10.1002/lol2.10385\nNovotny A, Serandour B, Kortsch S, Gauzens B, Jan KMG, Winder M. 2023. DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model. Science advances 9:17, eadg1096. doi: 10.1126/sciadv.adg1096\nSerandour B, Jan KMG, Novotny A, Winder M. 2023. Opportunisitic vs selective feeding strategies of zooplankton under changing environmental conditions. Journal of Plankton Research 45:2, 389-403. doi: 10.1093/plankt/fbad007\nNovotny A, Jan KMG, Dierking J, Winder M. 2022. Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy. Scientific Reports 12, 10952. doi: 10.1038/s41598-022-15116-7"
-  },
-  {
-    "objectID": "CV/CV_french.html#conférences",
-    "href": "CV/CV_french.html#conférences",
-    "title": "Curriculum Vitae",
-    "section": "Conférences",
-    "text": "Conférences\nSwedish Oikos Meeting 2025 | Présentation orale Stockholm, Suède  Jan KMG, Hentati-Sundberg J, Larson N, Winder M. Resource competition between small pelagic fish in the central Baltic Sea.\nMarine Research Days 2024 | Présentation orale Kalmar, Suède  Jan KMG, Hentati-Sundberg J, Larson N, Winder M. Are small pelagic fish competing for their resources in the central Baltic Sea?.\nICES Annual Science Conference 2024 | Poster Gateshead, Royaume-Uni  Jan KMG, Hentati-Sundberg J, Larson N, Winder M. Implication of resource competition for forage fish dynamics in the central Baltic Sea.\nBaltic Sea Science Congress 2023 | Présentation orale Helsinki, Finlande  Jan KMG, Serandour B, Walve J, Winder M. Species-specific phenological responses to climate pose consequences for trophic coupling.\nASLO Aquatic Sciences Meeting 2023 | Poster Palma de Majorque, Espagne  Jan KMG, Serandour B, Walve J, Winder M. Species-specific phenological responses to climate pose consequences for higher trophic levels.\nMarine Research Days 2022 | Présentation orale Stockholm, Suède  Jan KMG, Serandour B, Winder M. Coupling of plankton and small pelagic fish in the Baltic Sea.\n18th ISME 2022 | Poster Lausanne, Suisse  Jan KMG, Novotny A, Dierking J, Winder M. The role of eukaryotic microorganisms for niche partitioning of planktivorous fish.\nMarine Research Days 2021 | Présentation orale Göteborg, Suède  Jan KMG. Copepod feeding preferences along the Baltic Sea environmental gradients - an assessment of zooplankton interactions using DNA metabarcoding."
-  },
-  {
     "objectID": "CV/CV_french.html#services-académiques",
     "href": "CV/CV_french.html#services-académiques",
     "title": "Curriculum Vitae",
     "section": "Services académiques",
-    "text": "Services académiques\n\nÉvaluations ponctuelles (reviews)\nDeep Sea Research Part II: Topical Studies in Oceanography  Limnology and Oceanography Letters  Marine Ecology Progress Series  Molecular Ecology"
+    "text": "Services académiques\nCo-responsable de session scientifique, Ocean Sciences Meeting (2026)  Session: Environmental DNA and ’Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change\nÉvaluations ponctuelles (reviews)  Deep Sea Research Part II: Topical Studies in Oceanography  Limnology and Oceanography Letters  Marine Ecology Progress Series  Molecular Ecology"
   },
   {
     "objectID": "CV/CV_NotAcademic.html",
@@ -270,7 +270,7 @@
     "href": "CV/CV_english.html#publications",
     "title": "Curriculum Vitae",
     "section": "Publications",
-    "text": "Publications\nFirst author publications Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. Limited resource use overlaps among small pelagic fish species in the central Baltic Sea. ICES Journal of Marine Science 82:9, fsaf122. doi:10.1093/icesjms/fsaf122\nJan KMG, Serandour B, Walve J, Winder M. 2024. Plankton blooms over the annual cycle shape trophic interactions under climate change. Limnology and Oceanography Letters 9:3, 209-218. doi: 10.1002/lol2.10385\nNovotny A*, Jan KMG*, Dierking J, Winder M. 2022. Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy. Scientific Reports 12, 10952. doi: 10.1038/s41598-022-15116-7\n*Shared first authors\nCo-authored publications Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton. ISME Communications, ycaf248. doi:10.1093/ismeco/ycaf248\nSerandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species. Limnology and Oceanography 69:12, 2801-2814. doi:10.1002/lno.12705\nNovotny A, Serandour B, Kortsch S, Gauzens B, Jan KMG, Winder M. 2023. DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model. Science advances 9:17, eadg1096. doi: 10.1126/sciadv.adg1096\nSerandour B, Jan KMG, Novotny A, Winder M. 2023. Opportunisitic vs selective feeding strategies of zooplankton under changing environmental conditions. Journal of Plankton Research 45:2, 389-403. doi: 10.1093/plankt/fbad007"
+    "text": "Publications\nFirst author publications Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. Limited resource use overlaps among small pelagic fish species in the central Baltic Sea. ICES Journal of Marine Science 82:9, fsaf122. doi:10.1093/icesjms/fsaf122\nJan KMG, Serandour B, Walve J, Winder M. 2024. Plankton blooms over the annual cycle shape trophic interactions under climate change. Limnology and Oceanography Letters 9:3, 209-218. doi: 10.1002/lol2.10385\nNovotny A*, Jan KMG*, Dierking J, Winder M. 2022. Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy. Scientific Reports 12, 10952. doi: 10.1038/s41598-022-15116-7\n* Shared first authors\nCo-authored publications Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton. ISME Communications, ycaf248. doi:10.1093/ismeco/ycaf248\nSerandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species. Limnology and Oceanography 69:12, 2801-2814. doi:10.1002/lno.12705\nNovotny A, Serandour B, Kortsch S, Gauzens B, Jan KMG, Winder M. 2023. DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model. Science advances 9:17, eadg1096. doi: 10.1126/sciadv.adg1096\nSerandour B, Jan KMG, Novotny A, Winder M. 2023. Opportunisitic vs selective feeding strategies of zooplankton under changing environmental conditions. Journal of Plankton Research 45:2, 389-403. doi: 10.1093/plankt/fbad007"
   },
   {
     "objectID": "CV/CV_english.html#conferences",
@@ -291,7 +291,7 @@
     "href": "CV/CV_english.html#academic-services",
     "title": "Curriculum Vitae",
     "section": "Academic services",
-    "text": "Academic services\nSession Co-Chair, Ocean Sciences Meeting (2026)  Session: Environmental DNA and ’Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change\nAd-hoc reviews  Deep Sea Research Part II: Topical Studies in Oceanography  Limnology and Oceanography Letters  Marine Ecology Progress Series  Molecular Ecology"
+    "text": "Academic services\nSession co-chair, Ocean Sciences Meeting (2026)  Session: Environmental DNA and ’Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change\nAd-hoc reviews  Deep Sea Research Part II: Topical Studies in Oceanography  Limnology and Oceanography Letters  Marine Ecology Progress Series  Molecular Ecology"
   },
   {
     "objectID": "CV/CV_NotAcademic_french.html",

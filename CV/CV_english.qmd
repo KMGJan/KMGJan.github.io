@@ -111,7 +111,7 @@ Jan KMG, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual
 
 Novotny A\*, Jan KMG\*, Dierking J, Winder M. 2022. [*Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy*]{.pubtitle}. Scientific Reports 12, 10952. doi: [10.1038/s41598-022-15116-7](https://doi.org/10.1038/s41598-022-15116-7){.doi target=_blank}
 
-*Shared first authors
+\* *Shared first authors*
 
 **Co-authored publications**<br>
 Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. [*Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton*]{.pubtitle}. ISME Communications, ycaf248. doi:[10.1093/ismeco/ycaf248](https://doi.org/10.1093/ismeco/ycaf248){.doi target=_blank}
@@ -121,7 +121,6 @@ Serandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winde
 Novotny A, Serandour B, Kortsch S, Gauzens B, Jan KMG, Winder M. 2023. [*DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model*]{.pubtitle}. Science advances 9:17, eadg1096. doi: [10.1126/sciadv.adg1096](https://doi.org/10.1126/sciadv.adg1096){.doi target=_blank}
 
 Serandour B, Jan KMG, Novotny A, Winder M. 2023. [*Opportunisitic vs selective feeding strategies of zooplankton under changing environmental conditions*]{.pubtitle}. Journal of Plankton Research 45:2, 389-403. doi: [10.1093/plankt/fbad007](https://doi.org/10.1093/plankt/fbad007){.doi target=_blank}
-
 
 ## Conferences
 
@@ -140,7 +139,7 @@ Technical assistance with PhD hybrid defenses [*2022 --- 2023*]{.cvdate}
 
 ## Academic services
 
-**Session Co-Chair**, Ocean Sciences Meeting (2026) <br>
+**Session co-chair**, Ocean Sciences Meeting (2026) <br>
 Session: Environmental DNA and ‘Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change
 
 **Ad-hoc reviews** <br>
