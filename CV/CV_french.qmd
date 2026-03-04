@@ -37,8 +37,8 @@ format-links: [pdf]
 
 [[[**PhD**]{.educationtitle} **en biologie marine**]{.edu} [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
 [Stockholm University [*Septembre 2021 --- Janvier 2026*]{.cvdate}]{.cvcontainer}
-
-[Titre de thèse :]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.course target=_blank}
+<br>
+[Thèse :]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.course target=_blank}
 <br>
 
 [[Cours : ]{.subedu}
@@ -50,8 +50,8 @@ format-links: [pdf]
 
 [[[**MSc**]{.educationtitle} **en biologie marine**]{.edu} [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
 [Stockholm University [*Août 2019 --- Juin 2021*]{.cvdate}]{.cvcontainer}
-
-[Titre de projet de Master :]{.subedu} [Copepod feeding preferences along the Baltic Sea environmental gradients]{.course}
+<br>
+[Projet de Master :]{.subedu} [Copepod feeding preferences along the Baltic Sea environmental gradients]{.course}
 <br>
 [[Cours:]{.subedu}
 [- Baltic Sea Ecosystem: Applications, Modeling and Management]{.courseList1} [2020]{.coursedate} <br>

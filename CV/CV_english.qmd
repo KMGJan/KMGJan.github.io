@@ -62,7 +62,7 @@ format-links: [pdf]
 ## Teaching
 
 [**Stockholm University** [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
-[Marine ecosystem dynamics, [MSc]{.educationtitle} course]{.edu} [*2021 --- Present*]{.cvdate} <br>
+[Marine ecosystem dynamics, [MSc]{.educationtitle} course]{.edu} [*2021 --- 2025*]{.cvdate} <br>
 [Marine ecology, [BSc]{.educationtitle} course]{.edu} [*2022*]{.cvdate}
 
 [**The University of Neuchâtel** [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br> [From molecules to cells, [BSc]{.educationtitle} course]{.edu} [*2018 --- 2019*]{.cvdate}
