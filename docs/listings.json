@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/PhD/index.html",
+    "items": [
+      "/PhD/Project1/index.html",
+      "/PhD/Project2/index.html",
+      "/PhD/Project3/index.html",
+      "/PhD/Project4/index.html"
+    ]
+  },
+  {
     "listing": "/Publications/index.html",
     "items": [
       "/Publications/publications/paper6.html",
@@ -9,15 +18,6 @@
       "/Publications/publications/paper1.html",
       "/Publications/publications/paper3.html",
       "/Publications/publications/paper2.html"
-    ]
-  },
-  {
-    "listing": "/PhD/index.html",
-    "items": [
-      "/PhD/Project1/index.html",
-      "/PhD/Project2/index.html",
-      "/PhD/Project3/index.html",
-      "/PhD/Project4/index.html"
     ]
   }
 ]
