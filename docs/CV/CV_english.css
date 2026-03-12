@@ -129,18 +129,18 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
       counter-increment: page;
       @bottom-right {
         content: counter(page) " of " counter(pages);
-        font-size: 8pt;
+        font-size: 10pt;
         text-align: right;
       }
       @bottom-left {
         content: "Kinlan M.G. Jan";
-        font-size: 9pt;
+        font-size: 10pt;
         text-align: left;
       }
   }
   @page:first {
     @top-right {
-      content: "March 2026";
+      content: "2026-03-12";
       font-size: 10pt;
       font-family: "Times New Roman", serif;
     }
@@ -154,8 +154,8 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   }
   body {
     --print-date: attr(data-print-date);
-      font-size: 10pt;   /* sets default font size */
-    line-height: 1.2;  /* optional: improves readability */
+      font-size: 11pt;   /* sets default font size */
+    line-height: 1.05;  /* optional: improves readability */
   }
   .no-print {
       display: none;

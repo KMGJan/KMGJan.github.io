@@ -24,8 +24,6 @@ format-links: [pdf]
 
 
 ::: {.print-only .contact-block}
-**Docteur en biologie marine** <br>
-
 
 [kinlan.jan@hotmail.ch](mailto:kinlan.jan@hotmail.ch){.email}
 [0000-0002-5579-0017](https://orcid.org/0000-0002-5579-0017){.orcid}
@@ -89,10 +87,9 @@ Microscopie
 
 **Modélisation des réseaux trophiques et des écosystèmes** <br>
 Analyse de réseaux trophiques <br>
-Intégration de jeux de données de biomasse, environnementales et de métabarcoding <br>
-Comparaison et validation de modèles
+Intégration de jeux de données de biomasse, environnementales et de métabarcoding 
 
-**Bioinformatique (métabarcoding ADN environnemental)** <br>
+**Bioinformatique** <br>
 Traitement des séquences et assignation taxonomique
 
 
@@ -111,7 +108,7 @@ Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use ov
 Jan KMG, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual cycle shape trophic interactions under climate change*]{.pubtitle}. Limnology and Oceanography Letters 9:3, 209-218. doi: [10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.doi target=_blank}
 
 Novotny A\*, Jan KMG\*, Dierking J, Winder M. 2022. [*Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy*]{.pubtitle}. Scientific Reports 12, 10952. doi: [10.1038/s41598-022-15116-7](https://doi.org/10.1038/s41598-022-15116-7){.doi target=_blank}
-
+<br>
 \* *Premiers auteurs partagés*
 
 **Publications en co-auteur**<br>
@@ -130,7 +127,6 @@ Présenté 9 contributions (6 présentations orales, 3 posters) lors de confére
 - Ocean Sciences Meeting (2026, Presentation orale)
 - ICES Annual Science Conference (2024, Poster)
 - Baltic Sea Science Congress (2023, Presentation orale)
-- ASLO Aquatic Sciences Meeting (2023, Poster)
 
 ## Mandats de confiance
 
@@ -140,11 +136,10 @@ Assistant technique lors des soutenances hybrides de doctorat [*2022 --- 2023*]{
 
 ## Services académiques
 
-**Co-responsable de session scientifique**, Ocean Sciences Meeting (2026) <br>
-Session: Environmental DNA and ‘Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change
+**Co-animateur de session scientifique**, Ocean Sciences Meeting (2026) <br> [Session:]{.subedu} [Environmental DNA and ‘Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change]{.course}
 
 **Évaluations ponctuelles (reviews)** <br>
-Deep Sea Research Part II: Topical Studies in Oceanography <br>
-Limnology and Oceanography Letters <br>
-Marine Ecology Progress Series <br>
+Deep Sea Research Part II: Topical Studies in Oceanography, 
+Limnology and Oceanography Letters, 
+Marine Ecology Progress Series, 
 Molecular Ecology
