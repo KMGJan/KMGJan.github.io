@@ -22,9 +22,7 @@ css: CV_english.css
 format-links: [pdf]
 ---
 
-
 ::: {.print-only .contact-block}
-
 [kinlan.jan@hotmail.ch](mailto:kinlan.jan@hotmail.ch){.email}
 [0000-0002-5579-0017](https://orcid.org/0000-0002-5579-0017){.orcid}
 [KMGJan](https://github.com/KMGJan){.github}
@@ -34,9 +32,9 @@ format-links: [pdf]
 
 [[[**PhD**]{.educationtitle} **in Marine Biology**]{.edu} [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
 [Stockholm University [*September 2021 --- January 2026*]{.cvdate}]{.cvcontainer}<br>
-[Thesis title:]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.course target=_blank}
+Thesis title: [Resolving diversity and ecosystem functioning in a changing sea](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.course target=_blank}
 <br>
-[[Courses:]{.subedu}
+[Courses:
 [- Introduction to Stock Assessment, ICES, Denmark]{.courseList1} [2024]{.coursedate} <br>
 [- Scientific Writing, BioResearch School, Stockholm University, Sweden]{.courseList} [2023 -- 2024]{.coursedate} <br>
 [- RaukR - Advanced R for Bioinformatics, NBIS, Sweden]{.courseList} [2023]{.coursedate} <br>
@@ -45,9 +43,9 @@ format-links: [pdf]
 
 [[[**MSc**]{.educationtitle} **in Marine Biology**]{.edu} [**Stockholm, Sweden**]{.cvlocation}]{.cvcontainer} <br>
 [Stockholm University [*August 2019 --- June 2021*]{.cvdate}]{.cvcontainer}<br>
-[Master project title:]{.subedu} [Copepod feeding preferences along the Baltic Sea environmental gradients]{.course}
+Master project title: [Copepod feeding preferences along the Baltic Sea environmental gradients]{.course}
 <br>
-[[Courses:]{.subedu}
+[Courses:
 [- Baltic Sea Ecosystem: Applications, Modeling and Management]{.courseList1} [2020]{.coursedate} <br>
 [- Management of Aquatic Resources in the Tropics]{.courseList} [2020]{.coursedate} <br>
 [- Applied Marine Conservation Ecology]{.courseList} [2019 -- 2020]{.coursedate} <br>
@@ -102,7 +100,7 @@ Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate}
 ## Publications
 
 **First author publications**<br>
-Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science 82:9, fsaf122. doi:[10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}
+Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science 82:9, fsaf122. doi: [10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}
 
 Jan KMG, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual cycle shape trophic interactions under climate change*]{.pubtitle}. Limnology and Oceanography Letters 9:3, 209-218. doi: [10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.doi target=_blank}
 
@@ -111,9 +109,9 @@ Novotny A\*, Jan KMG\*, Dierking J, Winder M. 2022. [*Niche partitioning between
 \* *Shared first authors*
 
 **Co-authored publications**<br>
-Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. [*Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton*]{.pubtitle}. ISME Communications, ycaf248. doi:[10.1093/ismeco/ycaf248](https://doi.org/10.1093/ismeco/ycaf248){.doi target=_blank}
+Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. [*Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton*]{.pubtitle}. ISME Communications, ycaf248. doi: [10.1093/ismeco/ycaf248](https://doi.org/10.1093/ismeco/ycaf248){.doi target=_blank}
 
-Serandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography 69:12, 2801-2814. doi:[10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
+Serandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography 69:12, 2801-2814. doi: [10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
 
 Novotny A, Serandour B, Kortsch S, Gauzens B, Jan KMG, Winder M. 2023. [*DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model*]{.pubtitle}. Science advances 9:17, eadg1096. doi: [10.1126/sciadv.adg1096](https://doi.org/10.1126/sciadv.adg1096){.doi target=_blank}
 
@@ -136,7 +134,7 @@ Technical assistance with PhD hybrid defenses [*2022 --- 2023*]{.cvdate}
 ## Academic services
 
 **Session co-chair**, Ocean Sciences Meeting (2026) <br>
-[Session:]{.subedu} [Environmental DNA and ‘Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change]{.course}
+Session: [Environmental DNA and ‘Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change]{.course}
 
 **Ad-hoc reviews** <br>
 Deep Sea Research Part II: Topical Studies in Oceanography <br>

@@ -103,7 +103,7 @@ Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate}
 ## Publications
 
 **Publications en premier auteur**<br>
-Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science 82:9, fsaf122. doi:[10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}
+Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science 82:9, fsaf122. doi: [10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}
 
 Jan KMG, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual cycle shape trophic interactions under climate change*]{.pubtitle}. Limnology and Oceanography Letters 9:3, 209-218. doi: [10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.doi target=_blank}
 
@@ -112,9 +112,9 @@ Novotny A\*, Jan KMG\*, Dierking J, Winder M. 2022. [*Niche partitioning between
 \* *Premiers auteurs partagés*
 
 **Publications en co-auteur**<br>
-Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. [*Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton*]{.pubtitle}. ISME Communications, ycaf248. doi:[10.1093/ismeco/ycaf248](https://doi.org/10.1093/ismeco/ycaf248){.doi target=_blank}
+Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. [*Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton*]{.pubtitle}. ISME Communications, ycaf248. doi: [10.1093/ismeco/ycaf248](https://doi.org/10.1093/ismeco/ycaf248){.doi target=_blank}
 
-Serandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography 69:12, 2801-2814. doi:[10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
+Serandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography 69:12, 2801-2814. doi: [10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
 
 Novotny A, Serandour B, Kortsch S, Gauzens B, Jan KMG, Winder M. 2023. [*DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model*]{.pubtitle}. Science advances 9:17, eadg1096. doi: [10.1126/sciadv.adg1096](https://doi.org/10.1126/sciadv.adg1096){.doi target=_blank}
 

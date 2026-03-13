@@ -62,14 +62,9 @@
   margin-right: 20%;
 }
 
-.subedu {
-  color: black;
-  font-size: 90%;
-}
-
 .course {
   color: #0d4078;
-  font-size: 90%;
+  font-size: 100%;
   font-style: italic;
 }
 
@@ -146,15 +141,14 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
     }
     @top-left {
       content: url('assets/me.svg');
-      width: 130px; 
+      width: 100px; 
       height: auto;
-      padding-top: 150px;
-
+      padding-top: 70px;
     }
   }
   body {
     --print-date: attr(data-print-date);
-      font-size: 11pt;   /* sets default font size */
+      font-size: 12pt;   /* sets default font size */
     line-height: 1.05;  /* optional: improves readability */
   }
   .no-print {
@@ -201,7 +195,8 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
     font-size: 1.2em;
     font-weight: 600;
     color: black;
-    margin-bottom: 0em;
+    margin-bottom: 0.1em;
+    margin-top: 0.6em;
     display: flex;
     align-items: flex-end; /* Align items at the bottom */
     position: relative;
@@ -218,8 +213,13 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
     font-size: 1.1em;
     font-weight: 500;
     color: black;
-    margin-bottom: 0;
+    margin-bottom: 0.1em;
+    margin-top: 0.3em;
   }
+  p {
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+}
   a {
   color: black;
   text-decoration: none;
