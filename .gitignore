@@ -11,4 +11,7 @@
 
 **/*.quarto_ipynb
 
+.CV/CV_Not*
+.docs/CV/CV_Not*
+
 QR*
