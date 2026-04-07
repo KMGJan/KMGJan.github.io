@@ -10,8 +10,14 @@
 .quarto
 
 **/*.quarto_ipynb
+CV/assets
+CV/CV_Not*
+docs/CV/CV_Not*
+PhD/*/*.svg
+PhD/*/*.jpeg
+PhD/*/*.png
+PhD/*/*.pdf
+PhD/*/*.gif
 
-.CV/CV_Not*
-.docs/CV/CV_Not*
 
 QR*
