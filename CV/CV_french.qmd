@@ -103,6 +103,10 @@ ICES travel funds for early career scientists [*2024*]{.cvdate} <br>
 BalticWaters Scholarship program for early career researchers [*2024*]{.cvdate} <br>
 Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate}
 
+::: {.print-only}
+{{< pagebreak >}}
+:::
+
 ## Publications
 
 **indice h :** `r h_index` | **indice i10 :** `r i10_index` | **citations :** `r total_citations` [(Google Scholar, `r retrieval_date`)]{.cvdate}
