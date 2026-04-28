@@ -11,7 +11,7 @@ author:
     affiliations:
       - Stockholm Resilience Center, Stockholm University, Stockholm, Sweden
 
-  - name: <b>Kinlan MG Jan</b>
+  - name: <b>Kinlan M.G. Jan</b>
     orcid: 0000-0002-5579-0017
     affiliations:
       - Department of Ecology, Environment and Plant Sciences, Stockholm University, Stockholm, Sweden

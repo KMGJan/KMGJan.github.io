@@ -20,7 +20,7 @@ author:
     affiliations:
       - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany
       - Institute of Biodiversity, Friedrich Schiller University, Jena, Germany.
-  - name: <b>Kinlan MG Jan</b>
+  - name: <b>Kinlan M.G. Jan</b>
     orcid: 0000-0002-5579-0017
     affiliations:
       - Department of Ecology, Environment, and Plant Sciences, Stockholm University, Stockholm, Sweden
