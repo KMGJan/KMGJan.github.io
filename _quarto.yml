@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  pre-render: pre-render.R
 
 website:
   page-navigation: true
@@ -16,16 +17,23 @@ website:
     align: center
     collapse-level: 1
     right:
-      - text: "{{< fa graduation-cap >}} PhD project"
-        href: PhD/index.qmd
-      - text: "{{< fa paperclip >}}Publications"
+      - text: "{{< fa folder >}} Projects"
+        menu:
+       # - text: "MOSAIC"
+       #   href: moisaic/index.qmd
+        - text: "PhD project"
+          href: PhD/index.qmd
+
+      - text: "{{< fa paperclip >}} Publications"
         href: Publications/index.qmd
+        
       - text: "{{< fa address-card >}} Curriculum Vitae"
         menu:
         - text: "English 🇬🇧"
           href: CV/CV_english.qmd
         - text: "Français 🇫🇷"
           href: CV/CV_french.qmd
+          
       - text: "{{< fa brands github >}}"
         href: "https://github.com/KMGJan"
         target: "_blank"

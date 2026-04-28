@@ -97,13 +97,20 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../PhD/index.html"> 
-<span class="menu-text"><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> PhD project</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-fa-folder--projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text"><i class="fa-solid fa-folder" aria-label="folder"></i> Projects</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-fa-folder--projects">    
+        <li>
+    <a class="dropdown-item" href="../PhD/index.html">
+ <span class="dropdown-text">PhD project</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../Publications/index.html"> 
-<span class="menu-text"><i class="fa-solid fa-paperclip" aria-label="paperclip"></i>Publications</span></a>
+<span class="menu-text"><i class="fa-solid fa-paperclip" aria-label="paperclip"></i> Publications</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-fa-address-card--curriculum-vitae" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -164,27 +171,20 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Auteur·rice</div>
-  <div class="quarto-title-meta-heading">Affiliation</div>
-  
-    <div class="quarto-title-meta-contents">
-    <p class="author">Kinlan M.G. Jan <a href="https://orcid.org/0000-0002-5579-0017" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Stockholm University, Stockholm, Sweden
-          </p>
-      </div>
-  </div>
 
 <div class="quarto-title-meta">
 
-      
+    <div>
+    <div class="quarto-title-meta-heading">Auteur·rice</div>
+    <div class="quarto-title-meta-contents">
+             <p>Kinlan M.G. Jan <a href="https://orcid.org/0000-0002-5579-0017" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+          </div>
+  </div>
+    
     <div>
     <div class="quarto-title-meta-heading">Date de publication</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">mars 2026</p>
+      <p class="date">avril 2026</p>
     </div>
   </div>
   
@@ -201,10 +201,15 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="éducation" class="level2">
 <h2 class="anchored" data-anchor-id="éducation">Éducation</h2>
-<p><span class="cvcontainer"><span class="edu"><span class="educationtitle"><strong>PhD</strong></span> <strong>en biologie marine</strong></span> <span class="cvlocation"><strong>Stockholm, Suède</strong></span></span> <br> <span class="cvcontainer">Stockholm University <span class="cvdate"><em>Septembre 2021 — Janvier 2026</em></span></span> <br> <span class="subedu">Thèse :</span> <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847" class="course" target="_blank">Resolving diversity and ecosystem functioning in a changing sea</a> <br></p>
-<p><span class="no-print"><span class="subedu">Cours :</span> <span class="courseList1">- Introduction to Stock Assessment, ICES, Danemark</span> <span class="coursedate">2024</span> <br> <span class="courseList">- Scientific Writing, BioResearch School, Stockholm University, Suède</span> <span class="coursedate">2023 – 2024</span> <br> <span class="courseList">- RaukR - Advanced R for Bioinformatics, NBIS, Suède</span> <span class="coursedate">2023</span> <br> <span class="courseList">- Introduction to Bioinformatics using NGS data, NBIS, Suède</span> <span class="coursedate">2022</span> <br> <span class="courseList">- Fish and Fisheries Ecology, SLU, Suède</span> <span class="coursedate">2021</span></span></p>
-<p><span class="cvcontainer"><span class="edu"><span class="educationtitle"><strong>MSc</strong></span> <strong>en biologie marine</strong></span> <span class="cvlocation"><strong>Stockholm, Suède</strong></span></span> <br> <span class="cvcontainer">Stockholm University <span class="cvdate"><em>Août 2019 — Juin 2021</em></span></span> <br> <span class="subedu">Projet de Master :</span> <span class="course">Copepod feeding preferences along the Baltic Sea environmental gradients</span> <br> <span class="no-print"><span class="subedu">Cours:</span> <span class="courseList1">- Baltic Sea Ecosystem: Applications, Modeling and Management</span> <span class="coursedate">2020</span> <br> <span class="courseList">- Management of Aquatic Resources in the Tropics</span> <span class="coursedate">2020</span> <br> <span class="courseList">- Applied Marine Conservation Ecology</span> <span class="coursedate">2019 – 2020</span> <br> <span class="courseList">- Biological Statistics</span> <span class="coursedate">2019</span> <br> <span class="courseList">- Marine Ecosystem Dynamics</span> <span class="coursedate">2019</span></span></p>
+<p><span class="cvcontainer"><span class="edu"><span class="educationtitle"><strong>PhD</strong></span> <strong>en biologie marine</strong></span> <span class="cvlocation"><strong>Stockholm, Suède</strong></span></span> <br> <span class="cvcontainer">Stockholm University <span class="cvdate"><em>Septembre 2021 — Janvier 2026</em></span></span> <br> <span class="subedu">Thèse :</span> <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847" class="course" target="_blank">Resolving diversity and ecosystem functioning in a changing sea</a></p>
+<p><span class="cvcontainer"><span class="edu"><span class="educationtitle"><strong>MSc</strong></span> <strong>en biologie marine</strong></span> <span class="cvlocation"><strong>Stockholm, Suède</strong></span></span> <br> <span class="cvcontainer">Stockholm University <span class="cvdate"><em>Août 2019 — Juin 2021</em></span></span> <br> <span class="subedu">Projet de Master :</span> <span class="course">Copepod feeding preferences along the Baltic Sea environmental gradients</span></p>
 <p><span class="cvcontainer"><span class="edu"><span class="educationtitle"><strong>BSc</strong></span> <strong>en biologie</strong></span> <span class="cvlocation"><strong>Neuchâtel, Suisse</strong></span></span> <br> <span class="cvcontainer">Université de Neuchâtel <span class="cvdate"><em>Septembre 2017 — Juin 2019</em></span></span></p>
+<!---
+## Postes academiques
+
+[**Chercheur** en écologie isotopique et ressources mésopélagiques [**Belfast, Royaume-Uni**]{.cvlocation}]{.cvcontainer} <br>
+[Queen's University Belfast, School of Biological Sciences [*Mai 2026 --- Present*]{.cvdate}]{.cvcontainer}
+--->
 </section>
 <section id="enseignement" class="level2">
 <h2 class="anchored" data-anchor-id="enseignement">Enseignement</h2>
@@ -213,12 +218,10 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="expérience" class="level2">
 <h2 class="anchored" data-anchor-id="expérience">Expérience</h2>
-<p><strong>Échantillonnage de poissons</strong> <br> Campagne sur les larves de hareng <span class="cvdate">2023 — 2024</span> <br> Campagne acoustique sur le sprat en mer Baltique <span class="cvdate">2022 — 2023</span></p>
-<p><strong>Échantillonnage de plancton</strong> <br> Campagne de suivi en mer Baltique <span class="cvdate">Septembre 2020</span></p>
-<p><strong>Métabarcoding de l’ADN</strong> <br> Extraction d’ADN, PCR, préparation de librairies, électrophorèse sur gel</p>
-<p><strong>Identification du zooplancton</strong> <br> Microscopie</p>
+<p><strong>Échantillonnage</strong> <br> <!---Campage d'échantillonnage MOSAIC dans l'ocean Atlantique [Juillet 2026]{.cvdate} <br> ---> Campagne sur les larves de hareng <span class="cvdate">2023 — 2024</span> <br> Campagne acoustique sur le sprat en mer Baltique <span class="cvdate">2022 — 2023</span> <br> Campagne de suivi de plancton en mer Baltique <span class="cvdate">Septembre 2020</span></p>
+<p><strong>Métabarcoding de l’ADN</strong> <br> <em>Laboratoire</em> : Extraction d’ADN, PCR, préparation de librairies, électrophorèse sur gel <br> <em>Bioinformatique</em> : Traitement des séquences et assignation taxonomique</p>
+<p><strong>Analyses statistiques et workflows reproductibles</strong> <br> Traitement, visualisation et reporting des données en R <br> Gestion de versions avec Git</p>
 <p><strong>Modélisation des réseaux trophiques et des écosystèmes</strong> <br> Analyse de réseaux trophiques <br> Intégration de jeux de données de biomasse, environnementales et de métabarcoding</p>
-<p><strong>Bioinformatique</strong> <br> Traitement des séquences et assignation taxonomique</p>
 </section>
 <section id="prix-et-bourses" class="level2">
 <h2 class="anchored" data-anchor-id="prix-et-bourses">Prix et bourses</h2>
@@ -226,7 +229,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<p><strong>Publications en premier auteur</strong><br> Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. <span class="pubtitle"><em>Limited resource use overlaps among small pelagic fish species in the central Baltic Sea</em></span>. ICES Journal of Marine Science 82:9, fsaf122. doi: <a href="https://doi.org/10.1093/icesjms/fsaf122" class="doi" target="_blank">10.1093/icesjms/fsaf122</a></p>
+<p><strong>indice h :</strong> 5 | <strong>indice i10 :</strong> 4 | <strong>citations :</strong> 102 <span class="cvdate">(Google Scholar, 28/04/2026)</span></p>
+<p><strong>Publications en premier auteur</strong> <br> Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. <span class="pubtitle"><em>Limited resource use overlaps among small pelagic fish species in the central Baltic Sea</em></span>. ICES Journal of Marine Science 82:9, fsaf122. doi: <a href="https://doi.org/10.1093/icesjms/fsaf122" class="doi" target="_blank">10.1093/icesjms/fsaf122</a></p>
 <p>Jan KMG, Serandour B, Walve J, Winder M. 2024. <span class="pubtitle"><em>Plankton blooms over the annual cycle shape trophic interactions under climate change</em></span>. Limnology and Oceanography Letters 9:3, 209-218. doi: <a href="https://doi.org/10.1002/lol2.10385" class="doi" target="_blank">10.1002/lol2.10385</a></p>
 <p>Novotny A*, Jan KMG*, Dierking J, Winder M. 2022. <span class="pubtitle"><em>Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy</em></span>. Scientific Reports 12, 10952. doi: <a href="https://doi.org/10.1038/s41598-022-15116-7" class="doi" target="_blank">10.1038/s41598-022-15116-7</a> <br> * <em>Premiers auteurs partagés</em></p>
 <p><strong>Publications en co-auteur</strong><br> Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. <span class="pubtitle"><em>Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton</em></span>. ISME Communications, ycaf248. doi: <a href="https://doi.org/10.1093/ismeco/ycaf248" class="doi" target="_blank">10.1093/ismeco/ycaf248</a></p>
@@ -249,7 +253,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="services-académiques" class="level2">
 <h2 class="anchored" data-anchor-id="services-académiques">Services académiques</h2>
-<p><strong>Co-animateur de session scientifique</strong>, Ocean Sciences Meeting (2026) <br> <span class="subedu">Session:</span> <span class="course">Environmental DNA and ’Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change</span></p>
+<p><strong>Co-modérateur de session scientifique</strong>, Ocean Sciences Meeting (2026) <br> <span class="subedu">Session:</span> <span class="course">Environmental DNA and ’Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change</span></p>
 <p><strong>Évaluations ponctuelles (reviews)</strong> <br> Deep Sea Research Part II: Topical Studies in Oceanography, Limnology and Oceanography Letters, Marine Ecology Progress Series, Molecular Ecology</p>
 
 

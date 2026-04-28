@@ -1,0 +1,13 @@
+---
+title: "MOSAIC"
+toc: false
+---
+
+As a research fellow at Queen's University Belfast, I will lead the stable isotope workflow of the MOSAIC project.
+
+As the project progresses, updates will be posted here.
+
+<hr class="about-sep">
+
+::: {#SubProject}
+:::

@@ -135,7 +135,7 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   }
   @page:first {
     @top-right {
-      content: "2026-03-13";
+      content: "2026-04-28";
       font-size: 10pt;
       font-family: "Times New Roman", serif;
     }
@@ -175,7 +175,7 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   }
 
   header {
-    margin-block-end: 2.5em; /*this was 5em*/
+    margin-bottom: 2.5em; /*this was 5em*/
   }
   header h1.title {
       display: none;
@@ -186,7 +186,6 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
     font-weight: 700;
     color: black;
     text-align: center;
-    margin-block-end: 0em;
     margin-bottom: 0;
     text-transform: capitalize;
   }

@@ -19,5 +19,11 @@ PhD/*/*.png
 PhD/*/*.pdf
 PhD/*/*.gif
 
+Publications/archive
+docs/Publications/archive
+
+Publications/*.R
+docs/Publications/*.R
+
 
 QR*

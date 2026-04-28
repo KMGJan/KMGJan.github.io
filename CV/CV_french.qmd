@@ -14,7 +14,7 @@ format:
     - name: Kinlan M.G. Jan
       orcid: 0000-0002-5579-0017
       affiliations:
-      - Stockholm University, Stockholm, Sweden
+      #- Queen's University Belfast, Belfast, Irlande du Nord
   pdf:
     author: Kinlan M.G. Jan
     pdf-engine: weasyprint
@@ -22,6 +22,21 @@ css: CV_french.css
 format-links: [pdf]
 ---
 
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(scholar)
+
+scholar_id <- "Vf6gRpIAAAAJ"
+profile <- get_profile(scholar_id)
+
+h_index <- profile$h_index
+i10_index <- profile$i10_index
+total_citations <- profile$total_cites
+retrieval_date <- format(Sys.Date(), "%d/%m/%Y")
+```
 
 ::: {.print-only .contact-block}
 
@@ -37,30 +52,21 @@ format-links: [pdf]
 [Stockholm University [*Septembre 2021 --- Janvier 2026*]{.cvdate}]{.cvcontainer}
 <br>
 [Thèse :]{.subedu} [Resolving diversity and ecosystem functioning in a changing sea](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-249847){.course target=_blank}
-<br>
-
-[[Cours : ]{.subedu}
-[- Introduction to Stock Assessment, ICES, Danemark]{.courseList1} [2024]{.coursedate} <br>
-[- Scientific Writing, BioResearch School, Stockholm University, Suède]{.courseList} [2023 -- 2024]{.coursedate} <br>
-[- RaukR - Advanced R for Bioinformatics, NBIS, Suède]{.courseList} [2023]{.coursedate} <br>
-[- Introduction to Bioinformatics using NGS data, NBIS, Suède]{.courseList} [2022]{.coursedate} <br>
-[- Fish and Fisheries Ecology, SLU, Suède]{.courseList} [2021]{.coursedate}]{.no-print}
 
 [[[**MSc**]{.educationtitle} **en biologie marine**]{.edu} [**Stockholm, Suède**]{.cvlocation}]{.cvcontainer} <br>
 [Stockholm University [*Août 2019 --- Juin 2021*]{.cvdate}]{.cvcontainer}
 <br>
 [Projet de Master :]{.subedu} [Copepod feeding preferences along the Baltic Sea environmental gradients]{.course}
-<br>
-[[Cours:]{.subedu}
-[- Baltic Sea Ecosystem: Applications, Modeling and Management]{.courseList1} [2020]{.coursedate} <br>
-[- Management of Aquatic Resources in the Tropics]{.courseList} [2020]{.coursedate} <br>
-[- Applied Marine Conservation Ecology]{.courseList} [2019 -- 2020]{.coursedate} <br>
-[- Biological Statistics]{.courseList} [2019]{.coursedate} <br>
-[- Marine Ecosystem Dynamics]{.courseList} [2019]{.coursedate} ]{.no-print}
 
 [[[**BSc**]{.educationtitle} **en biologie**]{.edu} [**Neuchâtel, Suisse**]{.cvlocation}]{.cvcontainer} <br>
 [Université de Neuchâtel [*Septembre 2017 --- Juin 2019*]{.cvdate}]{.cvcontainer}
 
+<!---
+## Postes academiques
+
+[**Chercheur** en écologie isotopique et ressources mésopélagiques [**Belfast, Royaume-Uni**]{.cvlocation}]{.cvcontainer} <br>
+[Queen's University Belfast, School of Biological Sciences [*Mai 2026 --- Present*]{.cvdate}]{.cvcontainer}
+--->
 
 ## Enseignement
 
@@ -72,26 +78,23 @@ format-links: [pdf]
 
 ## Expérience
 
-**Échantillonnage de poissons** <br>
+**Échantillonnage** <br>
+<!---Campage d'échantillonnage MOSAIC dans l'ocean Atlantique [Juillet 2026]{.cvdate} <br> --->
 Campagne sur les larves de hareng [2023 --- 2024]{.cvdate} <br>
-Campagne acoustique sur le sprat en mer Baltique [2022 --- 2023]{.cvdate}
-
-**Échantillonnage de plancton** <br>
-Campagne de suivi en mer Baltique [Septembre 2020]{.cvdate}
+Campagne acoustique sur le sprat en mer Baltique [2022 --- 2023]{.cvdate} <br>
+Campagne de suivi de plancton en mer Baltique [Septembre 2020]{.cvdate}
 
 **Métabarcoding de l'ADN** <br>
-Extraction d’ADN, PCR, préparation de librairies, électrophorèse sur gel
+*Laboratoire* : Extraction d’ADN, PCR, préparation de librairies, électrophorèse sur gel <br>
+*Bioinformatique* : Traitement des séquences et assignation taxonomique
 
-**Identification du zooplancton** <br>
-Microscopie
+**Analyses statistiques et workflows reproductibles** <br>
+Traitement, visualisation et reporting des données en R <br>
+Gestion de versions avec Git
 
 **Modélisation des réseaux trophiques et des écosystèmes** <br>
 Analyse de réseaux trophiques <br>
 Intégration de jeux de données de biomasse, environnementales et de métabarcoding 
-
-**Bioinformatique** <br>
-Traitement des séquences et assignation taxonomique
-
 
 ## Prix et bourses
 
@@ -102,7 +105,9 @@ Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate}
 
 ## Publications
 
-**Publications en premier auteur**<br>
+**indice h :** `r h_index` | **indice i10 :** `r i10_index` | **citations :** `r total_citations` [(Google Scholar, `r retrieval_date`)]{.cvdate}
+
+**Publications en premier auteur** <br>
 Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science 82:9, fsaf122. doi: [10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}
 
 Jan KMG, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual cycle shape trophic interactions under climate change*]{.pubtitle}. Limnology and Oceanography Letters 9:3, 209-218. doi: [10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.doi target=_blank}
@@ -136,7 +141,7 @@ Assistant technique lors des soutenances hybrides de doctorat [*2022 --- 2023*]{
 
 ## Services académiques
 
-**Co-animateur de session scientifique**, Ocean Sciences Meeting (2026) <br> [Session:]{.subedu} [Environmental DNA and ‘Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change]{.course}
+**Co-modérateur de session scientifique**, Ocean Sciences Meeting (2026) <br> [Session:]{.subedu} [Environmental DNA and ‘Omics Approaches to Unraveling Marine Biodiversity, Species Interactions, and Ecosystem Change]{.course}
 
 **Évaluations ponctuelles (reviews)** <br>
 Deep Sea Research Part II: Topical Studies in Oceanography, 

@@ -18,7 +18,7 @@ listing:
       - "Journal"
       - "title"
     sort:
-      - "date desc"
+      - "Year desc"
     filter-ui:
       - "Year"
       - "author"
@@ -27,7 +27,22 @@ listing:
     field-display-names:
       author: "Authors"
 ---
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
 
+library(scholar)
+
+scholar_id <- "Vf6gRpIAAAAJ"
+profile <- get_profile(scholar_id)
+
+h_index <- profile$h_index
+i10_index <- profile$i10_index
+total_citations <- profile$total_cites
+retrieval_date <- format(Sys.Date(), "%B %d, %Y")
+```
+**H-index:** `r h_index` | **i10-index:** `r i10_index` | **Total citations:** `r total_citations` *(retrieved from Google Scholar on `r retrieval_date`)*
 
 ::: {#publication}
 :::
