@@ -10,7 +10,7 @@ Plankton dynamics and interactions shape energy fluxes in aquatic food webs. Und
 
 **A popular science summary** can be found [here](https://www.su.se/english/news/earlier-spring-phytoplankton-blooms-disrupt-the-balance-in-the-baltic-sea-1.726953){.button target=_blank}.
 
-**The full article is available in open access:** Jan, K.M.G., Serandour, B., Walve, J., Winder, M. Plankton blooms over the annual cycle shape trophic interactions under climate change. Limnology and Oceanography Letters (2024). doi:[10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.button target=_blank}
+**The full article is available in open access:** Jan, K.M.G., Serandour, B., Walve, J., Winder, M. 2024. Plankton blooms over the annual cycle shape trophic interactions under climate change. Limnology and Oceanography Letters 9 (3), 209-218. doi:[10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.button target=_blank}
 
 The data and the Rscripts are also publicly available on Zenodo. doi: [10.5281/zenodo.10708263](https://doi.org/10.5281/zenodo.10708263){.button target=_blank}.
 
