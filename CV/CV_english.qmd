@@ -106,7 +106,7 @@ Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate}
 
 ## Publications
 
-**h-index:** `r h_index` | **i10-index:** `r i10_index` | **Total citations:** `r total_citations` [(Google Scholar, `r retrieval_date`)]{.cvdate}
+**h-index:** `r h_index` | **i10-index:** `r i10_index` | **Total citations:** `r total_citations` [([Google Scholar](https://scholar.google.com/citations?user=Vf6gRpIAAAAJ){.button target=_blank}, `r retrieval_date`)]{.cvdate}
 
 **First author publications**<br>
 Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science 82:9, fsaf122. doi: [10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}
