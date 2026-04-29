@@ -2,7 +2,7 @@
   "hash": "0f01f384c9f53fd7e55f3d3a9bf07103",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Publications\"\nimage: \"image.svg\"\nlisting: \n  - id: publication\n    max-description-length: 80\n    image-height: 250px\n    fields: [author, Year, Journal, title]\n    contents: publications\n    type: table\n    table-striped: true\n    table-hover: false\n    categories: cloud\n    grid-item-border: false\n    sort-ui: \n      - \"Year\"\n      - \"author\"\n      - \"Journal\"\n      - \"title\"\n    sort:\n      - \"Year desc\"\n    filter-ui:\n      - \"Year\"\n      - \"author\"\n      - \"Journal\"\n      - \"title\"\n    field-display-names:\n      author: \"Authors\"\n---\n\n::: {.cell}\n\n:::\n\n**H-index:** 5 | **i10-index:** 4 | **Total citations:** 102 *(retrieved from Google Scholar on April 28, 2026)*\n\n::: {#publication}\n:::\n\n",
+    "markdown": "---\ntitle: \"Publications\"\nimage: \"image.svg\"\nlisting: \n  - id: publication\n    max-description-length: 80\n    image-height: 250px\n    fields: [author, Year, Journal, title]\n    contents: publications\n    type: table\n    table-striped: true\n    table-hover: false\n    categories: cloud\n    grid-item-border: false\n    sort-ui: \n      - \"Year\"\n      - \"author\"\n      - \"Journal\"\n      - \"title\"\n    sort:\n      - \"Year desc\"\n    filter-ui:\n      - \"Year\"\n      - \"author\"\n      - \"Journal\"\n      - \"title\"\n    field-display-names:\n      author: \"Authors\"\n---\n\n::: {.cell}\n\n:::\n\n**H-index:** 5 | **i10-index:** 4 | **Total citations:** 103 *(retrieved from Google Scholar on April 29, 2026)*\n\n::: {#publication}\n:::\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
