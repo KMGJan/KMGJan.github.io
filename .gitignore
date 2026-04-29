@@ -24,7 +24,7 @@ docs/Publications/archive
 
 Publications/*.R
 docs/Publications/*.R
-
+CV/last_metrics.rds
 
 QR*
 .positai
