@@ -47,6 +47,10 @@ retrieval_date <- format(Sys.Date(), "%d/%m/%Y")
 [KMGJan](https://github.com/KMGJan){.github}
 :::
 
+## Postes academiques
+
+[**Chercheur** en écologie isotopique et ressources mésopélagiques [**Belfast, Royaume-Uni**]{.cvlocation}]{.cvcontainer} <br>
+[Queen's University Belfast, School of Biological Sciences [*Juin 2026 --- Present*]{.cvdate}]{.cvcontainer}
 
 ## Éducation 
 
@@ -62,11 +66,6 @@ retrieval_date <- format(Sys.Date(), "%d/%m/%Y")
 
 [[[**BSc**]{.educationtitle} **en biologie**]{.edu} [**Neuchâtel, Suisse**]{.cvlocation}]{.cvcontainer} <br>
 [Université de Neuchâtel [*Septembre 2017 --- Juin 2019*]{.cvdate}]{.cvcontainer}
-
-## Postes academiques
-
-[**Chercheur** en écologie isotopique et ressources mésopélagiques [**Belfast, Royaume-Uni**]{.cvlocation}]{.cvcontainer} <br>
-[Queen's University Belfast, School of Biological Sciences [*Juin 2026 --- Present*]{.cvdate}]{.cvcontainer}
 
 ## Enseignement
 

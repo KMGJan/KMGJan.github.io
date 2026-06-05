@@ -45,7 +45,10 @@ retrieval_date <- format(Sys.Date(), "%d/%m/%Y")
 [KMGJan](https://github.com/KMGJan){.github}
 :::
 
+## Academic positions
 
+[**Research Fellow** in Isotope Ecology and Mesopelagic Prey Fields [**Belfast, United Kingdom**]{.cvlocation}]{.cvcontainer} <br>
+[Queen's University Belfast, School of Biological Sciences [*June 2026 --- Present*]{.cvdate}]{.cvcontainer}
 
 ## Education 
 
@@ -59,12 +62,6 @@ Master project title: [Copepod feeding preferences along the Baltic Sea environm
 
 [[[**BSc**]{.educationtitle} **in Biology**]{.edu} [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br>
 [The University of Neuchâtel [*September 2017 --- June 2019*]{.cvdate}]{.cvcontainer}
-
-
-## Academic positions
-
-[**Research Fellow** in Isotope Ecology and Mesopelagic Prey Fields [**Belfast, United Kingdom**]{.cvlocation}]{.cvcontainer} <br>
-[Queen's University Belfast, School of Biological Sciences [*June 2026 --- Present*]{.cvdate}]{.cvcontainer}
 
 ## Teaching
 
