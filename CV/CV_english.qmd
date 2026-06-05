@@ -1,6 +1,8 @@
 ---
 title: Curriculum Vitae
 lang: en
+execute:
+  freeze: false
 format: 
   html:
     toc: true
@@ -14,7 +16,7 @@ format:
     - name: Kinlan M.G. Jan
       orcid: 0000-0002-5579-0017
       affiliations:
-      #- Queen's University Belfast, Belfast, Northern Ireland
+      - Queen's University Belfast, Belfast, Northern Ireland
   pdf:
     author: Kinlan M.G. Jan
     pdf-engine: weasyprint
@@ -58,12 +60,11 @@ Master project title: [Copepod feeding preferences along the Baltic Sea environm
 [[[**BSc**]{.educationtitle} **in Biology**]{.edu} [**Neuchâtel, Switzerland**]{.cvlocation}]{.cvcontainer} <br>
 [The University of Neuchâtel [*September 2017 --- June 2019*]{.cvdate}]{.cvcontainer}
 
-<!--
+
 ## Academic positions
 
 [**Research Fellow** in Isotope Ecology and Mesopelagic Prey Fields [**Belfast, United Kingdom**]{.cvlocation}]{.cvcontainer} <br>
-[Queen's University Belfast, School of Biological Sciences [*May 2026 --- Present*]{.cvdate}]{.cvcontainer}
---->
+[Queen's University Belfast, School of Biological Sciences [*June 2026 --- Present*]{.cvdate}]{.cvcontainer}
 
 ## Teaching
 
@@ -106,7 +107,7 @@ Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate}
 
 ## Publications
 
-**h-index:** `r h_index` | **i10-index:** `r i10_index` | **Total citations:** `r total_citations` [([Google Scholar](https://scholar.google.com/citations?user=Vf6gRpIAAAAJ){.button target=_blank}, `r retrieval_date`)]{.cvdate}
+**Total citations:** `r total_citations` | **h-index:** `r h_index` | **i10-index:** `r i10_index` ([*Google Scholar*](https://scholar.google.com/citations?user=Vf6gRpIAAAAJ){.button target=_blank}, `r retrieval_date`)
 
 **First author publications**<br>
 Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science 82:9, fsaf122. doi: [10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}

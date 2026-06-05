@@ -33,6 +33,7 @@ listing:
 #| warning: false
 
 library(scholar)
+library(tidyverse)
 
 scholar_id <- "Vf6gRpIAAAAJ"
 profile <- get_profile(scholar_id)
@@ -42,7 +43,7 @@ i10_index <- profile$i10_index
 total_citations <- profile$total_cites
 retrieval_date <- format(Sys.Date(), "%B %d, %Y")
 ```
-**H-index:** `r h_index` | **i10-index:** `r i10_index` | **Total citations:** `r total_citations` *(retrieved from Google Scholar on `r retrieval_date`)*
+**Total citations:** `r total_citations` | **h-index:** `r h_index` | **i10-index:** `r i10_index` *(retrieved from [Google Scholar](https://scholar.google.com/citations?user=Vf6gRpIAAAAJ){.button target=_blank} on `r retrieval_date`)*
 
 ::: {#publication}
 :::
