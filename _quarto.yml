@@ -38,7 +38,7 @@ website:
         href: "https://github.com/KMGJan"
         target: "_blank"
       - text: "{{< fa paper-plane >}}"
-        href: mailto:kinlan.jan@hotmail.ch
+        href: mailto:k.jan@qub.ac.uk
         
 format:
   html:
@@ -47,4 +47,4 @@ format:
     toc: false
     mainfont: Jost
 execute:
-  freeze: auto
+  freeze: false
