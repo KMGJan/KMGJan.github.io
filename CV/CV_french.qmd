@@ -42,7 +42,7 @@ retrieval_date <- format(Sys.Date(), "%d/%m/%Y")
 
 ::: {.print-only .contact-block}
 
-[kinlan.jan@hotmail.ch](mailto:kinlan.jan@hotmail.ch){.email}
+[k.jan@qub.ac.uk](mailto:k.jan@qub.ac.uk){.email}
 [0000-0002-5579-0017](https://orcid.org/0000-0002-5579-0017){.orcid}
 [KMGJan](https://github.com/KMGJan){.github}
 :::
