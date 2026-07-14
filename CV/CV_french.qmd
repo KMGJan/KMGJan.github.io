@@ -50,7 +50,7 @@ retrieval_date <- format(Sys.Date(), "%d/%m/%Y")
 ## Postes academiques
 
 [**Chercheur** en écologie isotopique et ressources mésopélagiques [**Belfast, Royaume-Uni**]{.cvlocation}]{.cvcontainer} <br>
-[Queen's University Belfast, School of Biological Sciences [*Juin 2026 --- Present*]{.cvdate}]{.cvcontainer}
+[Queen's University Belfast [*Juin 2026 --- Present*]{.cvdate}]{.cvcontainer}
 
 ## Éducation 
 
