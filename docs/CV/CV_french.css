@@ -116,7 +116,16 @@
   /*color: aquamarine;*/
 }
 
-
+.pub-entry {
+  display: block;
+  margin-bottom: 1em;
+  padding-left: 2em;
+  text-indent: -2em;
+  line-height: 1;
+}
+.pub-entry:last-child {
+  margin-bottom: 0;
+}
 /* adapt stylesheet for print
 from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-render-to-pdf */
 
@@ -140,7 +149,7 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   }
   @page:first {
     @top-right {
-      content: "2026-07-14";
+      content: "2026-07-30";
       font-size: 10pt;
       font-family: "Times New Roman", serif;
     }
@@ -180,7 +189,19 @@ from: https://www.cynthiahqy.com/posts/cv-html-pdf/#install-weasyprint-and-rende
   pdf {
     font-family: "Times New Roman", serif;
   }
-
+.pub-entry {
+  display: block;
+  margin-bottom: 0em;
+  padding-left: 2em;
+  text-indent: -2em;
+  line-height: 1;
+}
+.pub-entry:last-child {
+  margin-bottom: 0;
+}
+.pubtitle {
+  font-style: italic;
+}
   header {
     margin-bottom: 2.5em;
   }

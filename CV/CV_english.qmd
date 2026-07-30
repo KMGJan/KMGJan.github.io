@@ -74,7 +74,7 @@ Master project title: [Copepod feeding preferences along the Baltic Sea environm
 ## Experience
 
 **Sampling** <br>
-<!--MOSAIC sampling cruise in the Atlantic Ocean [July 2026]{.cvdate} <br> --->
+MOSAIC mesopelagic sampling cruise in the North East Atlantic [July 2026]{.cvdate} <br>
 Herring Larvae Survey in the Stockholm archipelago [2023 --- 2024]{.cvdate} <br>
 Sprat Acoustic Survey in the Baltic Sea [2022 --- 2023]{.cvdate} <br>
 Plankton monitoring survey in the Baltic Sea [September 2020]{.cvdate}
@@ -98,31 +98,24 @@ ICES travel funds for early career scientists [*2024*]{.cvdate} <br>
 BalticWaters Scholarship program for early career researchers [*2024*]{.cvdate} <br>
 Dryssen Award for best Master's Theses in Marine Sciences [*2021*]{.cvdate}
 
-::: {.print-only}
-{{< pagebreak >}}
-:::
-
 ## Publications
 
 **Total citations:** `r total_citations` | **h-index:** `r h_index` | **i10-index:** `r i10_index` ([*Google Scholar*](https://scholar.google.com/citations?user=Vf6gRpIAAAAJ){.button target=_blank}, `r retrieval_date`)
 
-**First author publications**<br>
-Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science 82:9, fsaf122. doi: [10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}
-
-Jan KMG, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual cycle shape trophic interactions under climate change*]{.pubtitle}. Limnology and Oceanography Letters 9:3, 209-218. doi: [10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.doi target=_blank}
-
-Novotny A\*, Jan KMG\*, Dierking J, Winder M. 2022. [*Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy*]{.pubtitle}. Scientific Reports 12, 10952. doi: [10.1038/s41598-022-15116-7](https://doi.org/10.1038/s41598-022-15116-7){.doi target=_blank}
+**First author publications**
 <br>
+[Jan KMG, Hentati-Sundberg J, Larson N, Winder M. 2025. [*Limited resource use overlaps among small pelagic fish species in the central Baltic Sea*]{.pubtitle}. ICES Journal of Marine Science 82:9, fsaf122. doi: [10.1093/icesjms/fsaf122](https://doi.org/10.1093/icesjms/fsaf122){.doi target=_blank}]{.pub-entry}
+[Jan KMG, Serandour B, Walve J, Winder M. 2024. [*Plankton blooms over the annual cycle shape trophic interactions under climate change*]{.pubtitle}. Limnology and Oceanography Letters 9:3, 209-218. doi: [10.1002/lol2.10385](https://doi.org/10.1002/lol2.10385){.doi target=_blank}]{.pub-entry}
+[Novotny A\*, Jan KMG\*, Dierking J, Winder M. 2022. [*Niche partitioning between planktivorous fish in the pelagic Baltic Sea assessed by DNA metabarcoding, qPCR and microscopy*]{.pubtitle}. Scientific Reports 12, 10952. doi: [10.1038/s41598-022-15116-7](https://doi.org/10.1038/s41598-022-15116-7){.doi target=_blank}]{.pub-entry}
 \* *Shared first authors*
 
-**Co-authored publications**<br>
-Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2025. [*Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton*]{.pubtitle}. ISME Communications, ycaf248. doi: [10.1093/ismeco/ycaf248](https://doi.org/10.1093/ismeco/ycaf248){.doi target=_blank}
-
-Serandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography 69:12, 2801-2814. doi: [10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}
-
-Novotny A, Serandour B, Kortsch S, Gauzens B, Jan KMG, Winder M. 2023. [*DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model*]{.pubtitle}. Science advances 9:17, eadg1096. doi: [10.1126/sciadv.adg1096](https://doi.org/10.1126/sciadv.adg1096){.doi target=_blank}
-
-Serandour B, Jan KMG, Novotny A, Winder M. 2023. [*Opportunisitic vs selective feeding strategies of zooplankton under changing environmental conditions*]{.pubtitle}. Journal of Plankton Research 45:2, 389-403. doi: [10.1093/plankt/fbad007](https://doi.org/10.1093/plankt/fbad007){.doi target=_blank}
+**Co-authored publications**
+<br>
+[Hanström N, Jan KMG, Winder M. 2026. [*Environmental gradients shape the distribution of free-living and host-associated Syndiniales life stages*]{.pubtitle}. Microbial Ecology 89:143. doi: [10.1007/s00248-026-02831-1](https://doi.org/10.1007/s00248-026-02831-1){.doi target=_blank}]{.pub-entry}
+[Hanström N, Jan KMG, Serandour B, Xu T, Winder M. 2026. [*Diet composition and environmental niche drive parasitic Syndiniales interactions with crustacean zooplankton*]{.pubtitle}. ISME Communications, ycaf248. doi: [10.1093/ismeco/ycaf248](https://doi.org/10.1093/ismeco/ycaf248){.doi target=_blank}]{.pub-entry}
+[Serandour B, Blenckner T, Jan KMG, Leroy B, Ramiro-Sánchez B, Campbell E, Winder M. 2024. [*Projections of spatial distributions of suitable environmental conditions for key Baltic Sea zooplankton species*]{.pubtitle}. Limnology and Oceanography 69:12, 2801-2814. doi: [10.1002/lno.12705](https://doi.org/10.1002/lno.12705){.doi target=_blank}]{.pub-entry}
+[Novotny A, Serandour B, Kortsch S, Gauzens B, Jan KMG, Winder M. 2023. [*DNA metabarcoding highlights cyanobacteria as the main source of primary production in a pelagic food web model*]{.pubtitle}. Science Advances 9:17, eadg1096. doi: [10.1126/sciadv.adg1096](https://doi.org/10.1126/sciadv.adg1096){.doi target=_blank}]{.pub-entry}
+[Serandour B, Jan KMG, Novotny A, Winder M. 2023. [*Opportunistic vs selective feeding strategies of zooplankton under changing environmental conditions*]{.pubtitle}. Journal of Plankton Research 45:2, 389-403. doi: [10.1093/plankt/fbad007](https://doi.org/10.1093/plankt/fbad007){.doi target=_blank}]{.pub-entry}
 
 ## Conferences
 
@@ -145,6 +138,7 @@ Session: [Environmental DNA and ‘Omics Approaches to Unraveling Marine Biodive
 
 **Ad-hoc reviews** <br>
 Deep Sea Research Part II: Topical Studies in Oceanography,
+Journal of Plankton Research,
 Limnology and Oceanography Letters,
 Marine Ecology Progress Series,
 Molecular Ecology
