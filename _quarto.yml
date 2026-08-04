@@ -5,7 +5,7 @@ project:
 
 website:
   page-navigation: true
-  title: "[Kinlan M.G. Jan]{.myname}"
+  title: "Kinlan M.G. Jan"
   page-footer:
     left:  "2026 Kinlan M.G. Jan"
     center: "[{{< fa brands github >}} Source Code](https://github.com/KMGJan/KMGJan.github.io){target=_blank}"
