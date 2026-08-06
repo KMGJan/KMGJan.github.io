@@ -22,9 +22,7 @@ about:
 ::: {.intro #hero-heading}
 Hello, I am **Kinlan M.G. Jan**.
 
-In January 2026, I completed my PhD in Marine Biology at Stockholm University in [Prof. Monika Winder group](https://winderlab.com/about/){.button target=_blank}. I am now a Research Fellow at [Queen's University Belfast](https://pure.qub.ac.uk/en/persons/kinlan-jan/){.button target=_blank} working on the MOISAC project in [Dr. Jon Houghton group](https://pure.qub.ac.uk/en/persons/jonathan-houghton/){.button target=_blank}.
-
-I am interested in food web dynamics, and how they shape ecosystem functioning. The primary aim of my research is to investigate how change at the base of the food web propagate through the higher trophic levels using different tools including:
+I am a marine ecologist interested in food web dynamics, and how they shape ecosystem functioning. The primary aim of my research is to investigate how change at the base of the food web propagate through the higher trophic levels using different tools including:
 
 ::: {.listing}
 
@@ -33,6 +31,8 @@ I am interested in food web dynamics, and how they shape ecosystem functioning. 
 {{< fa microscope title="microscope" >}} Microscopy <br>
 {{< fa chart-line title="chart" >}}  Time series analysis
 :::
+
+In January 2026, I completed my PhD in Marine Biology at Stockholm University in [Prof. Monika Winder group](https://winderlab.com/about/){.button target=_blank}. I am now a Research Fellow at [Queen's University Belfast](https://pure.qub.ac.uk/en/persons/kinlan-jan/){.button target=_blank} working on the MOISAC project in [Dr. Jon Houghton group](https://pure.qub.ac.uk/en/persons/jonathan-houghton/){.button target=_blank}.
 
 Beside research, I enjoy:
 
