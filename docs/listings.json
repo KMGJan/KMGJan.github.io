@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/PhD/index.html",
-    "items": [
-      "/PhD/Project1/index.html",
-      "/PhD/Project2/index.html",
-      "/PhD/Project3/index.html",
-      "/PhD/Project4/index.html"
-    ]
-  },
-  {
     "listing": "/Publications/index.html",
     "items": [
       "/Publications/publications/environmental_gradients_shape_the_distribution_of_.html",
@@ -19,6 +10,15 @@
       "/Publications/publications/dna_metabarcoding_highlights_cyanobacteria_as_the_.html",
       "/Publications/publications/opportunistic_vs_selective_feeding_strategies_of_z.html",
       "/Publications/publications/niche_partitioning_between_planktivorous_fish_in_t.html"
+    ]
+  },
+  {
+    "listing": "/PhD/index.html",
+    "items": [
+      "/PhD/Project1/index.html",
+      "/PhD/Project2/index.html",
+      "/PhD/Project3/index.html",
+      "/PhD/Project4/index.html"
     ]
   }
 ]

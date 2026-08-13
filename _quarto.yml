@@ -19,8 +19,8 @@ website:
     right:
       - text: "{{< fa folder >}} Projects"
         menu:
-       # - text: "MOSAIC"
-       #   href: moisaic/index.qmd
+        - text: "MOSAIC"
+          href: mosaic/index.qmd
         - text: "PhD project"
           href: PhD/index.qmd
 
