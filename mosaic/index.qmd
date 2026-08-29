@@ -2,12 +2,28 @@
 title: "MOSAIC"
 toc: false
 ---
+As a postdoctoral researcher within **MOSAIC (Multi-disciplinary Ocean Sensing for Adaptive International Conservation)**, I lead the project's **stable isotope workflow**, using biochemical tracers to investigate mesopelagic food-web structure in the North East Atlantic.
 
-As a research fellow at Queen's University Belfast, I will lead the stable isotope workflow of the MOSAIC project.
+My work focuses on understanding how energy moves through these deep-water food webs and how different organisms are connected within the wider marine ecosystem. I work across the workflow from sample processing and stable isotope analysis through to interpreting the resulting data in an ecological context.
 
-As the project progresses, updates will be posted here.
+This work forms part of MOSAIC's wider effort to bring together complementary approaches to better understand marine ecosystems and generate evidence to support their monitoring, conservation and management.
+
+As the project progresses, I'll share updates and insights from my work here.
 
 <hr class="about-sep">
 
-::: {#SubProject}
-:::
+<div style="display: flex; align-items: center; justify-content: center; gap: 5px; width: 100%;">
+
+<div style="flex: 1; text-align: center;">
+<img src="assets/image.jpeg" style="max-width: 100px; height: auto;">
+</div>
+
+<div style="flex: 1; text-align: center;">
+<img src="assets/SEUPB _ SEUPB.jpeg" style="max-width: 300px; height: auto;">
+</div>
+
+<div style="flex: 1; text-align: center;">
+<img src="assets/Independent Member - Audit and Risk Assurance Committee_.jpeg" style="max-width: 350px; height: auto;">
+</div>
+
+</div>
