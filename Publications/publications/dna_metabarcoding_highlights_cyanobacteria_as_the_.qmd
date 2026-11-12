@@ -60,6 +60,4 @@ abstract <- crossref_data$data$abstract |>
 ```
 `r abstract`
 
-`r complete_authors`. `r paper$year`. `r paper$title`. `r paper$journal`. `r paper$number`. [`r doi`](`r doi`){.button target=_blank}
-
 [{{< fa arrow-left >}} Back to Publications](../../Publications){.ChangePageLeft}

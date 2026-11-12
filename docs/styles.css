@@ -1,8 +1,8 @@
 /* css styles */
 .button {
-  color: black;        /* Sets the text color to black */
-  text-decoration: none;  /* Removes the underline */
-  }
+  color: var(--bs-body-color);
+  text-decoration: none;
+}
 .intro {
   margin-top: 20%;
 }
@@ -11,23 +11,21 @@
 }
 .category {
   font-size: 13px;
-  color: #535353;
+  color: var(--text-muted);
 }
 
-
-a{
+a {
   text-decoration: none;
 
-  &:visited{
-
+  &:visited {
     text-decoration: none;
     opacity: 0.42;
   }
-  &:hover{
+  &:hover {
     opacity: 0.7;
     text-decoration: underline;
   }
-  &:active{
+  &:active {
     opacity: 1;
     text-decoration: none;
   }
@@ -35,13 +33,13 @@ a{
 
 .ChangePageRight {
   float: right;
-  color: #535353;
+  color: var(--text-muted);
   font-family: "Bebas neue", Sans-Serif;
 }
 
 .ChangePageLeft {
   float: left;
-  color: #535353;
+  color: var(--text-muted);
   font-family: "Bebas neue", Sans-Serif;
 }
 

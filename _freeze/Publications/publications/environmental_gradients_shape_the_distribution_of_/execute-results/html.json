@@ -1,0 +1,15 @@
+{
+  "hash": "d495ae3e15eb26967257b64e7bfcfcd6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Environmental Gradients Shape the Distribution of Free-Living and Host-Associated Syndiniales Life Stages\"\nauthor:\n  - name: Neea Hanström\n    orcid: 0009-0000-0866-2234\n    affiliations:\n      - Department of Ecology, Environment and Plant Sciences, Stockholm University, Stockholm, Sweden\n\n  - name: <b>Kinlan M. G. Jan</b>\n    orcid: 0000-0002-5579-0017\n    affiliations:\n      - Department of Ecology, Environment and Plant Sciences, Stockholm University, Stockholm, Sweden\n\n  - name: Monika Winder\n    orcid: 0000-0001-9467-3035\n    affiliations:\n      - Department of Ecology, Environment and Plant Sciences, Stockholm University, Stockholm, Sweden\n\nYear: \"2026\"\ndoi: \"https://doi.org/10.1007/s00248-026-02831-1\"\nJournal: Microbial Ecology\ncategories:\n  - \"Syndiniales\"\n  - \"Dinospore distribution\"\n  - \"Protists\"\n  - \"Parasites\"\n  - \"Spatial variation\"\n---\n\n::: {.cell}\n\n:::\n\nMarine alveolate parasites, particularly early-branching dinoflagellates of the order Syndiniales, play critical yet often overlooked roles in shaping marine microbial communities. These parasitoids infect diverse hosts, including dinoflagellates, copepods, and fish eggs, and rely on short-lived, free-living dinospores for transmission. Despite their ecological significance, the distributions of Syndiniales dinospores and host-associated life stages across environmental gradients remain poorly understood. We used 18S rRNA gene region DNA metabarcoding combined with size-fractionated water filtration across vertical and horizontal gradients of salinity, oxygen, and nutrients in the Baltic Sea-Skagerrak system to characterize Syndiniales life-stage distributions and identify clades producing dinospores. This approach enables the differentiation of free-living dinospores and host-associated life stages. Most reads were assigned to Syndiniales groups I and II, indicating the presence of both host associations and dinospore presence. Dinospore communities were more diverse than host-associated life stages and showed variation in spatial distribution and community composition. The spatial variation was related to salinity, oxygen, and nitrogen concentrations, emphasizing the role of environmental conditions in shaping niches suitable for host-parasite associations and infection transmission. Our findings highlight the prevalence of Syndiniales communities across an environmental gradient and the influence of environmental conditions on their distribution patterns.\n\n[{{< fa arrow-left >}} Back to Publications](../../Publications){.ChangePageLeft}\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

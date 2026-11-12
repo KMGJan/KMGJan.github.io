@@ -47,55 +47,6 @@
   margin-left: 15px; /* Adjust the spacing between the icon and the email address */
   vertical-align: middle;
 }
-.educationtitle {
-  color: black;/*#0d4078;*/
-  font-style: italic;
-}
-.cvdate {
-  float: right;
-  font-style: italic;
-  color: black;
-}
-
-.edu {
-  color: black;/* #0d4078;*/
-  margin-right: 20%;
-}
-
-.subedu {
-  color: black;
-  font-size: 100%;
-}
-
-.course {
-  color: #0d4078;
-  font-size: 100%;
-  font-style: italic;
-}
-
-.courseList {
-  color: #0d4078;
-  font-size: 90%;
-  font-style: italic;
-  margin-left: 9%;
-}
-
-.courseList1 {
-  color: #0d4078;
-  font-size: 90%;
-  font-style: italic;
-  margin-left: 1%;
-}
-.coursedate {
-  float: right;
-  font-style: italic;
-  color: black;
-  font-size: 90%;
-}
-.pubtitle {
-  color: #0d4078;
-}
-
 .cvcontainer {
   display: inline-block;
   width: 100%;
@@ -108,8 +59,47 @@
   bottom: 0;
   vertical-align: baseline;
 }
+.educationtitle {
+  color: var(--bs-body-color);
+  font-style: italic;
+}
+.cvdate {
+  float: right;
+  font-style: italic;
+  color: var(--bs-body-color);
+}
+.edu {
+  color: var(--bs-body-color);
+  margin-right: 20%;
+}
+.course {
+  color: var(--cv-accent);
+  font-size: 100%;
+  font-style: italic;
+}
+.courseList {
+  color: var(--cv-accent);
+  font-size: 90%;
+  font-style: italic;
+  margin-left: 9%;
+}
+.courseList1 {
+  color: var(--cv-accent);
+  font-size: 90%;
+  font-style: italic;
+  margin-left: 1%;
+}
+.coursedate {
+  float: right;
+  font-style: italic;
+  color: var(--bs-body-color);
+  font-size: 90%;
+}
+.pubtitle {
+  color: var(--cv-accent);
+}
 .doi {
-  color: black;
+  color: var(--bs-body-color);
 }
 .print-only {
   display: none;

@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+// import fonts
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Oswald:wght@200..700&family=Jost:ital,wght@0,100..900;1,100..900&family=Bebas+Neue&family=Amatic+SC:wght@400;700&display=swap');
+
+// Base document colors
+$body-bg: #1a1a1a;
+$body-color: #e6e6e6;
+$link-color: #e57373;
+$link-decoration: none;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+/*-- scss:rules --*/
+
+:root {
+  --text-muted: #a6a6a6;
+  --cv-accent: #7fb2ee;
+}
