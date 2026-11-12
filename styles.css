@@ -47,3 +47,24 @@ a {
   font-family: "Amatic SC", Sans-Serif;
   font-weight: 700;
 }
+
+.logo-strip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  width: 100%;
+  background-color: white;
+  padding: 1em;
+  border-radius: 6px;
+}
+
+.logo-strip > div {
+  flex: 1;
+  text-align: center;
+}
+
+.logo-strip img {
+  height: auto;
+  max-width: 100%;
+}

@@ -9,7 +9,7 @@ listing:
     grid-columns: 4
     max-description-length: 200
     image-height: 240px
-    fields: [image, title, description]
+    fields: [title, description]
     contents: 
       - Project1/*.qmd
       - Project2/*.qmd
