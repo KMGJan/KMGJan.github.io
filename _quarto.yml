@@ -19,9 +19,9 @@ website:
     right:
       - text: "{{< fa folder >}} Projects"
         menu:
-        - text: "MOSAIC"
+        - text: "MOSAIC (Postdoc)"
           href: mosaic/index.qmd
-        - text: "PhD project"
+        - text: "Plankton-fish (PhD)"
           href: PhD/index.qmd
 
       - text: "{{< fa paperclip >}} Publications"
